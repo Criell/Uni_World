@@ -1,0 +1,21 @@
+./star easytest.txt 0 0 4 0 > test.txt
+R D D R R U R U
+
+./star testgrid_small.txt 0 0 3 1 >> test.txt
+D R D D R R U U
+
+./star testgrid_large.txt 0 1 4 14 >> test.txt
+R D R R D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D 
+
+./star testgrid_large.txt 0 8 19 14 >> test.txt
+R D R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R L R 
+
+
+./star testgrid_large.txt 10 3 5 0 >> test.txt
+U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D
+
+./star testgrid_large.txt 5 14 2 0 >> test.txt .                                                         
+L
+
+./star testgrid_large.txt 0 13 0 0 >> test.txt
+R D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D U D

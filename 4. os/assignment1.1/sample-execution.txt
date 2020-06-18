@@ -1,0 +1,2072 @@
+a0 0 3 0 10
+a1 0 6 0 9
+a2 0 5 0 10
+a3 0 4 0 8
+a4 0 1 0 30
+a5 0 6 0 6
+
+Index	Priority	Arrival	End	Ready	CPU_Time	Waiting
+a1	6	0	14	0	9	5
+a5	6	0	15	5	6	4
+a2	5	0	25	15	10	0
+a0	3	0	35	25	10	0
+a3	4	0	43	35	8	0
+a4	2	0	73	43	30	0
+
+b0 0 3 0 10
+b1 0 6 0 16
+b2 0 5 0 14
+b3 0 6 0 20
+b4 0 1 0 20
+b5 5 3 0 10
+b6 0 2 0 20
+b7 0 4 0 19
+b8 0 3 0 20
+b9 10 6 0 18
+b10 15 2 0 9
+
+Index	Priority	Arrival	End	Ready	CPU_Time	Waiting
+b1	6	0	41	0	16	25
+b3	6	0	51	5	20	26
+b9	6	10	54	15	18	21
+b2	5	0	78	54	14	10
+b7	5	0	102	59	19	24
+b0	5	0	107	83	10	14
+b5	5	5	117	93	10	14
+b8	5	0	132	88	20	24
+b10	5	15	151	137	9	5
+b6	5	0	156	122	20	14
+b4	5	0	176	156	20	0
+
+c1 28 6 0 1
+c2 0 3 0 25
+c3 0 5 0 26
+c5 0 3 0 10
+
+I	Pri	A	End	Ready	CPU_Time	Waiting
+c1	6	28	29	28	1	0
+c5	3	0	39	29	10	0
+c3	4	0	40	0	26	14
+c2	2	0	62	25	25	12
+
+
+d0 0 4 0 10
+d1 0 3 0 20
+d2 0 5 0 100
+d3 20 5 0 30
+d4 20 4 0 20
+d5 40 3 0 15
+d6 40 6 0 40
+d7 80 2 0 80
+d8 160 1 0 10
+
+I	Pri	A	End	Ready	CPU_Time	Waiting
+d0	5	0	100	-70	10	20
+d6	5	40	135	-40	40	55
+d4	5	20	150	75	20	55
+d3	5	20	160	-20	30	110
+d1	5	0	175	105	20	50
+d5	5	40	185	140	15	30
+d8	2	160	275	265	10	0
+d2	2	0	305	0	100	205
+d7	2	80	325	185	80	60
+
+
+		d6	6	40	80	-40	40	0
+	d0	5	0	110	-80	10	20
+
+d4	5	20	155	85	20	50
+
+		d1	5	0	170	-100	20	50
+		d5	5	40	180	-140	15	25
+	d3	5	20	190	-20	30	140
+
+d8	3	160	270	260	10	0
+d2	2	0	300	0	100	200
+d7	2	80	325	180	80	65
+
+
+s0 0 3 0 10
+s1 0 6 0 20
+s2 0 5 0 11
+s3 0 6 0 20
+s4 67 2 0 25
+s5 5 4 0 1
+s6 0 2 0 5
+s7 0 4 0 28
+s8 0 3 0 20
+s9 45 5 0 6
+s10 103 3 0 2
+
+They are finished processes:
+Index	Prio	Arrival	End	Ready	CPU_Time	Waiting
+s1	6	0	35	0	20	15
+s3	6	0	40	5	20	15
+s5	5	5	61	60	1	0
+s9	5	45	67	50	6	11
+s2	5	0	68	40	11	17
+s0	5	0	93	73	10	10
+s8	5	0	113	78	20	15
+s6	5	0	118	113	5	0
+s10	3	103	120	118	2	0
+s7	4	0	123	45	28	50
+s4	2	67	148	123	25	0
+
+***************************
+The last moment of Time(0)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	0	10
+s7	0	4	0	28
+s8	0	3	0	20
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	0	5
+***************************
+The last moment of Time(1)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	0	10
+s7	0	4	0	28
+s8	0	3	0	20
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	0	5
+***************************
+The last moment of Time(2)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	0	10
+s7	0	4	0	28
+s8	0	3	0	20
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	0	5
+***************************
+The last moment of Time(3)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	0	10
+s7	0	4	0	28
+s8	0	3	0	20
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	0	5
+***************************
+The last moment of Time(4)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	0	10
+s7	0	4	0	28
+s8	0	3	0	20
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	0	5
+***************************
+The last moment of Time(5)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	1	10
+s7	0	4	1	28
+s8	0	3	1	20
+s5	5	4	0	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	1	5
+***************************
+The last moment of Time(6)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	1	10
+s7	0	4	1	28
+s8	0	3	1	20
+s5	5	4	0	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	1	5
+***************************
+The last moment of Time(7)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	1	10
+s7	0	4	1	28
+s8	0	3	1	20
+s5	5	4	0	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	1	5
+***************************
+The last moment of Time(8)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	1	10
+s7	0	4	1	28
+s8	0	3	1	20
+s5	5	4	0	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	1	5
+***************************
+The last moment of Time(9)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	1	10
+s7	0	4	1	28
+s8	0	3	1	20
+s5	5	4	0	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	1	5
+***************************
+The last moment of Time(10)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	2	10
+s7	0	4	2	28
+s8	0	3	2	20
+s5	5	4	1	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	2	5
+***************************
+The last moment of Time(11)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	2	10
+s7	0	4	2	28
+s8	0	3	2	20
+s5	5	4	1	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	2	5
+***************************
+The last moment of Time(12)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	2	10
+s7	0	4	2	28
+s8	0	3	2	20
+s5	5	4	1	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	2	5
+***************************
+The last moment of Time(13)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	2	10
+s7	0	4	2	28
+s8	0	3	2	20
+s5	5	4	1	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	2	5
+***************************
+The last moment of Time(14)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	2	10
+s7	0	4	2	28
+s8	0	3	2	20
+s5	5	4	1	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	2	5
+***************************
+The last moment of Time(15)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	3	10
+s7	0	4	3	28
+s8	0	3	3	20
+s5	5	4	2	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	3	5
+***************************
+The last moment of Time(16)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	3	10
+s7	0	4	3	28
+s8	0	3	3	20
+s5	5	4	2	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	3	5
+***************************
+The last moment of Time(17)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	3	10
+s7	0	4	3	28
+s8	0	3	3	20
+s5	5	4	2	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	3	5
+***************************
+The last moment of Time(18)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	3	10
+s7	0	4	3	28
+s8	0	3	3	20
+s5	5	4	2	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	3	5
+***************************
+The last moment of Time(19)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	3	10
+s7	0	4	3	28
+s8	0	3	3	20
+s5	5	4	2	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	3	5
+***************************
+The last moment of Time(20)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	4	10
+s7	0	4	4	28
+s8	0	3	4	20
+s5	5	4	3	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	4	5
+***************************
+The last moment of Time(21)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	4	10
+s7	0	4	4	28
+s8	0	3	4	20
+s5	5	4	3	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	4	5
+***************************
+The last moment of Time(22)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	4	10
+s7	0	4	4	28
+s8	0	3	4	20
+s5	5	4	3	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	4	5
+***************************
+The last moment of Time(23)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	4	10
+s7	0	4	4	28
+s8	0	3	4	20
+s5	5	4	3	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	4	5
+***************************
+The last moment of Time(24)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	4	10
+s7	0	4	4	28
+s8	0	3	4	20
+s5	5	4	3	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	4	5
+***************************
+The last moment of Time(25)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	5	10
+s7	0	4	5	28
+s8	0	3	5	20
+s5	5	4	4	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	5	5
+***************************
+The last moment of Time(26)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	5	10
+s7	0	4	5	28
+s8	0	3	5	20
+s5	5	4	4	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	5	5
+***************************
+The last moment of Time(27)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	5	10
+s7	0	4	5	28
+s8	0	3	5	20
+s5	5	4	4	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	5	5
+***************************
+The last moment of Time(28)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	5	10
+s7	0	4	5	28
+s8	0	3	5	20
+s5	5	4	4	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	5	5
+***************************
+The last moment of Time(29)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s1	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	5	10
+s7	0	4	5	28
+s8	0	3	5	20
+s5	5	4	4	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	5	5
+***************************
+The last moment of Time(30)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	6	10
+s7	0	4	6	28
+s8	0	3	6	20
+s5	5	4	5	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	6	5
+***************************
+The last moment of Time(31)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	6	10
+s7	0	4	6	28
+s8	0	3	6	20
+s5	5	4	5	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	6	5
+***************************
+The last moment of Time(32)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	6	10
+s7	0	4	6	28
+s8	0	3	6	20
+s5	5	4	5	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	6	5
+***************************
+The last moment of Time(33)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	6	10
+s7	0	4	6	28
+s8	0	3	6	20
+s5	5	4	5	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	6	5
+***************************
+The last moment of Time(34)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s1	0	6	0	20
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	6	10
+s7	0	4	6	28
+s8	0	3	6	20
+s5	5	4	5	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	6	5
+***************************
+The last moment of Time(35)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	7	10
+s7	0	4	7	28
+s8	0	3	7	20
+s5	5	4	6	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	7	5
+***************************
+The last moment of Time(36)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	7	10
+s7	0	4	7	28
+s8	0	3	7	20
+s5	5	4	6	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	7	5
+***************************
+The last moment of Time(37)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	7	10
+s7	0	4	7	28
+s8	0	3	7	20
+s5	5	4	6	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	7	5
+***************************
+The last moment of Time(38)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	7	10
+s7	0	4	7	28
+s8	0	3	7	20
+s5	5	4	6	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	7	5
+***************************
+The last moment of Time(39)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s3	0	6	0	20
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	3	7	10
+s7	0	4	7	28
+s8	0	3	7	20
+s5	5	4	6	1
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	2	7	5
+***************************
+The last moment of Time(40)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	0	10
+s8	0	4	0	20
+s5	5	4	7	1
+s6	0	3	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(41)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	0	10
+s8	0	4	0	20
+s5	5	4	7	1
+s6	0	3	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(42)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	0	10
+s8	0	4	0	20
+s5	5	4	7	1
+s6	0	3	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(43)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	0	10
+s8	0	4	0	20
+s5	5	4	7	1
+s6	0	3	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(44)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	0	10
+s8	0	4	0	20
+s5	5	4	7	1
+s6	0	3	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(45)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	1	10
+s8	0	4	1	20
+s6	0	3	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(46)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	1	10
+s8	0	4	1	20
+s6	0	3	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(47)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	1	10
+s8	0	4	1	20
+s6	0	3	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(48)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	1	10
+s8	0	4	1	20
+s6	0	3	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(49)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	1	10
+s8	0	4	1	20
+s6	0	3	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(50)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	2	10
+s8	0	4	2	20
+s6	0	3	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(51)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	2	10
+s8	0	4	2	20
+s6	0	3	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(52)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	2	10
+s8	0	4	2	20
+s6	0	3	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(53)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	2	10
+s8	0	4	2	20
+s6	0	3	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(54)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s9	45	5	0	6
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	2	10
+s8	0	4	2	20
+s6	0	3	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(55)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+s9	45	5	0	6
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	3	10
+s8	0	4	3	20
+s6	0	3	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(56)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+s9	45	5	0	6
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	3	10
+s8	0	4	3	20
+s6	0	3	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(57)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+s9	45	5	0	6
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	3	10
+s8	0	4	3	20
+s6	0	3	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(58)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+s9	45	5	0	6
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	3	10
+s8	0	4	3	20
+s6	0	3	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(59)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s5	5	5	0	1
+s7	0	5	0	28
+s9	45	5	0	6
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	3	10
+s8	0	4	3	20
+s6	0	3	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(60)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s5	5	5	0	1
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	4	10
+s8	0	4	4	20
+s6	0	3	4	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(61)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	5	10
+s8	0	4	5	20
+s6	0	3	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(62)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	5	10
+s8	0	4	5	20
+s6	0	3	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(63)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	5	10
+s8	0	4	5	20
+s6	0	3	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(64)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	5	10
+s8	0	4	5	20
+s6	0	3	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(65)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s9	45	5	0	6
+s2	0	5	0	11
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	5	10
+s8	0	4	5	20
+s6	0	3	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(66)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s9	45	5	0	6
+s2	0	5	0	11
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	6	10
+s8	0	4	6	20
+s6	0	3	6	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(67)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s2	0	5	0	11
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	4	7	10
+s8	0	4	7	20
+s6	0	3	7	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	0	25
+***************************
+The last moment of Time(68)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	1	25
+***************************
+The last moment of Time(69)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	1	25
+***************************
+The last moment of Time(70)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	1	25
+***************************
+The last moment of Time(71)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	1	25
+***************************
+The last moment of Time(72)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	0	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	1	25
+***************************
+The last moment of Time(73)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	2	25
+***************************
+The last moment of Time(74)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	2	25
+***************************
+The last moment of Time(75)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	2	25
+***************************
+The last moment of Time(76)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	2	25
+***************************
+The last moment of Time(77)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	1	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	2	25
+***************************
+The last moment of Time(78)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+s0	0	5	0	10
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	3	25
+***************************
+The last moment of Time(79)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+s0	0	5	0	10
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	3	25
+***************************
+The last moment of Time(80)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+s0	0	5	0	10
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	3	25
+***************************
+The last moment of Time(81)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+s0	0	5	0	10
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	3	25
+***************************
+The last moment of Time(82)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+s0	0	5	0	10
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	2	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	3	25
+***************************
+The last moment of Time(83)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	4	25
+***************************
+The last moment of Time(84)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	4	25
+***************************
+The last moment of Time(85)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	4	25
+***************************
+The last moment of Time(86)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	4	25
+***************************
+The last moment of Time(87)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s0	0	5	0	10
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	3	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	4	25
+***************************
+The last moment of Time(88)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	4	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	5	25
+***************************
+The last moment of Time(89)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	4	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	5	25
+***************************
+The last moment of Time(90)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	4	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	5	25
+***************************
+The last moment of Time(91)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	4	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	5	25
+***************************
+The last moment of Time(92)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s0	0	5	0	10
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	4	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	5	25
+***************************
+The last moment of Time(93)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	6	25
+***************************
+The last moment of Time(94)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	6	25
+***************************
+The last moment of Time(95)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	6	25
+***************************
+The last moment of Time(96)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	6	25
+***************************
+The last moment of Time(97)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s7	0	5	0	28
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	5	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	6	25
+***************************
+The last moment of Time(98)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	6	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	7	25
+***************************
+The last moment of Time(99)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	6	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	7	25
+***************************
+The last moment of Time(100)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	6	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	7	25
+***************************
+The last moment of Time(101)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	6	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	7	25
+***************************
+The last moment of Time(102)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	5	0	28
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	6	5
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	7	25
+***************************
+The last moment of Time(103)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	7	5
+s10	103	3	0	2
+s7	0	4	0	28
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(104)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	7	5
+s10	103	3	0	2
+s7	0	4	0	28
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(105)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	7	5
+s10	103	3	0	2
+s7	0	4	0	28
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(106)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	7	5
+s10	103	3	0	2
+s7	0	4	0	28
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(107)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	4	7	5
+s10	103	3	0	2
+s7	0	4	0	28
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(108)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	1	2
+s7	0	4	1	28
+s4	67	3	1	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(109)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	1	2
+s7	0	4	1	28
+s4	67	3	1	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(110)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	1	2
+s7	0	4	1	28
+s4	67	3	1	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(111)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	1	2
+s7	0	4	1	28
+s4	67	3	1	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(112)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s8	0	5	0	20
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	1	2
+s7	0	4	1	28
+s4	67	3	1	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(113)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	2	2
+s7	0	4	2	28
+s4	67	3	2	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(114)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	2	2
+s7	0	4	2	28
+s4	67	3	2	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(115)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	2	2
+s7	0	4	2	28
+s4	67	3	2	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(116)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	2	2
+s7	0	4	2	28
+s4	67	3	2	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(117)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+s6	0	5	0	5
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	2	2
+s7	0	4	2	28
+s4	67	3	2	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(118)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	3	2
+s7	0	4	3	28
+s4	67	3	3	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(119)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s10	103	3	0	2
+s7	0	4	3	28
+s4	67	3	3	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(120)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	4	4	28
+s4	67	3	4	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(121)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	4	0	28
+s4	67	3	4	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(122)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s7	0	4	0	28
+s4	67	3	4	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(123)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	5	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(124)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(125)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(126)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(127)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(128)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(129)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(130)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(131)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(132)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(133)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(134)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(135)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(136)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(137)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(138)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(139)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(140)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(141)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(142)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	3	0	25
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+***************************
+The last moment of Time(143)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	0	25
+***************************
+The last moment of Time(144)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	0	25
+***************************
+The last moment of Time(145)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	0	25
+***************************
+The last moment of Time(146)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	0	25
+***************************
+The last moment of Time(147)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time
+s4	67	2	0	25
+***************************
+The last moment of Time(148)
+This is Queue 1:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 2:
+Index	Arrival	Prio	age	CPU_Time
+This is Queue 3:
+Index	Arrival	Prio	age	CPU_Time

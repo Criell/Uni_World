@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#Output to std the number of shifts
+ for i in `seq 1 25`;do
+     echo "Shift $i"
+
+     #Read from the file give as parameter and then 
+     #Call caesar and output the code messege line by line
+     while read line;do
+     	res=$(echo "$line" | tr [a-z] [A-Z])
+        echo "$res" | ./caesar -u -n $i  		
+    done < $1
+done

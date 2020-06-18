@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Call and save output create_pattern 
+swi=$(./create_pattern $1 $2 $3)
+
+#Take std input and output the code messege line by line
+#Upper or lower case
+while IFS='' read -r line || [[ -n "$line" ]]; do 
+  res=$(echo "$line" | tr [a-z] [A-Z])
+  echo $res | tr [A-Z] $swi
+done < "/dev/stdin"

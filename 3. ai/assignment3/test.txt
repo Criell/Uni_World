@@ -1,0 +1,401 @@
+0.596 0.404 Likelohood
+0.643 0.357 Likelohood
+0.599 0.401 Likelohood
+0.599 0.401 Likelohood
+0.620 0.380 Likelohood
+0.612 0.388 Likelohood
+0.608 0.392 Likelohood
+0.600 0.400 Likelohood
+0.602 0.398 Likelohood
+0.602 0.398 Likelohood
+0.597 0.403 Likelohood
+0.590 0.410 Likelohood
+0.590 0.410 Likelohood
+0.587 0.413 Likelohood
+0.583 0.417 Likelohood
+0.583 0.417 Likelohood
+0.583 0.417 Likelohood
+0.584 0.416 Likelohood
+0.583 0.417 Likelohood
+0.579 0.421 Likelohood
+0.580 0.420 Likelohood
+0.579 0.421 Likelohood
+0.580 0.420 Likelohood
+0.581 0.419 Likelohood
+0.580 0.420 Likelohood
+0.580 0.420 Likelohood
+0.579 0.421 Likelohood
+0.578 0.422 Likelohood
+0.578 0.422 Likelohood
+0.576 0.424 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.576 0.424 Likelohood
+0.577 0.423 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.575 0.425 Likelohood
+0.575 0.425 Likelohood
+0.575 0.425 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.576 0.424 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.578 0.422 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.578 0.422 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.578 0.422 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.576 0.424 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.577 0.423 Likelohood
+0.576 0.424 Likelohood
+0.577 0.423 Likelohood
+0.640 0.360 Gibbs
+ 0.673 0.327 Gibbs
+ 0.598 0.402 Gibbs
+ 0.640 0.360 Gibbs
+ 0.639 0.361 Gibbs
+ 0.621 0.379 Gibbs
+ 0.617 0.383 Gibbs
+ 0.729 0.271 Gibbs
+ 0.639 0.361 Gibbs
+ 0.622 0.378 Gibbs
+ 0.691 0.309 Gibbs
+ 0.628 0.372 Gibbs
+ 0.688 0.312 Gibbs
+ 0.632 0.368 Gibbs
+ 0.615 0.385 Gibbs
+ 0.625 0.375 Gibbs
+ 0.614 0.386 Gibbs
+ 0.629 0.371 Gibbs
+ 0.629 0.371 Gibbs
+ 0.712 0.288 Gibbs
+ 0.624 0.376 Gibbs
+ 0.625 0.375 Gibbs
+ 0.625 0.375 Gibbs
+ 0.694 0.306 Gibbs
+ 0.634 0.366 Gibbs
+ 0.618 0.382 Gibbs
+ 0.607 0.393 Gibbs
+ 0.717 0.283 Gibbs
+ 0.693 0.307 Gibbs
+ 0.614 0.386 Gibbs
+ 0.612 0.388 Gibbs
+ 0.715 0.285 Gibbs
+ 0.679 0.321 Gibbs
+ 0.613 0.387 Gibbs
+ 0.626 0.374 Gibbs
+ 0.714 0.286 Gibbs
+ 0.719 0.281 Gibbs
+ 0.712 0.288 Gibbs
+ 0.618 0.382 Gibbs
+ 0.624 0.376 Gibbs
+ 0.634 0.366 Gibbs
+ 0.612 0.388 Gibbs
+ 0.684 0.316 Gibbs
+ 0.610 0.390 Gibbs
+ 0.617 0.383 Gibbs
+ 0.628 0.372 Gibbs
+ 0.612 0.388 Gibbs
+ 0.619 0.381 Gibbs
+ 0.716 0.284 Gibbs
+ 0.676 0.324 Gibbs
+ 0.607 0.393 Gibbs
+ 0.621 0.379 Gibbs
+ 0.622 0.378 Gibbs
+ 0.711 0.289 Gibbs
+ 0.618 0.382 Gibbs
+ 0.622 0.378 Gibbs
+ 0.682 0.318 Gibbs
+ 0.627 0.373 Gibbs
+ 0.620 0.380 Gibbs
+ 0.622 0.378 Gibbs
+ 0.625 0.375 Gibbs
+ 0.617 0.383 Gibbs
+ 0.613 0.387 Gibbs
+ 0.622 0.378 Gibbs
+ 0.624 0.376 Gibbs
+ 0.687 0.313 Gibbs
+ 0.710 0.290 Gibbs
+ 0.623 0.377 Gibbs
+ 0.680 0.320 Gibbs
+ 0.620 0.380 Gibbs
+ 0.618 0.382 Gibbs
+ 0.617 0.383 Gibbs
+ 0.613 0.387 Gibbs
+ 0.628 0.372 Gibbs
+ 0.618 0.382 Gibbs
+ 0.622 0.378 Gibbs
+ 0.712 0.288 Gibbs
+ 0.617 0.383 Gibbs
+ 0.621 0.379 Gibbs
+ 0.618 0.382 Gibbs
+ 0.612 0.388 Gibbs
+ 0.615 0.385 Gibbs
+ 0.687 0.313 Gibbs
+ 0.713 0.287 Gibbs
+ 0.717 0.283 Gibbs
+ 0.616 0.384 Gibbs
+ 0.613 0.387 Gibbs
+ 0.618 0.382 Gibbs
+ 0.633 0.367 Gibbs
+ 0.711 0.289 Gibbs
+ 0.615 0.385 Gibbs
+ 0.623 0.377 Gibbs
+ 0.620 0.380 Gibbs
+ 0.613 0.387 Gibbs
+ 0.623 0.377 Gibbs
+ 0.621 0.379 Gibbs
+ 0.627 0.373 Gibbs
+ 0.627 0.373 Gibbs
+ 0.619 0.381 Gibbs
+ 0.631 0.369 Gibbs
+ 0.853 0.147 Likelohood
+0.740 0.260 Likelohood
+0.762 0.238 Likelohood
+0.740 0.260 Likelohood
+0.805 0.195 Likelohood
+0.802 0.198 Likelohood
+0.781 0.219 Likelohood
+0.772 0.228 Likelohood
+0.775 0.225 Likelohood
+0.779 0.221 Likelohood
+0.772 0.228 Likelohood
+0.778 0.222 Likelohood
+0.776 0.224 Likelohood
+0.774 0.226 Likelohood
+0.769 0.231 Likelohood
+0.771 0.229 Likelohood
+0.769 0.231 Likelohood
+0.771 0.229 Likelohood
+0.773 0.227 Likelohood
+0.776 0.224 Likelohood
+0.774 0.226 Likelohood
+0.775 0.225 Likelohood
+0.777 0.223 Likelohood
+0.776 0.224 Likelohood
+0.775 0.225 Likelohood
+0.773 0.227 Likelohood
+0.774 0.226 Likelohood
+0.772 0.228 Likelohood
+0.771 0.229 Likelohood
+0.771 0.229 Likelohood
+0.770 0.230 Likelohood
+0.770 0.230 Likelohood
+0.769 0.231 Likelohood
+0.768 0.232 Likelohood
+0.766 0.234 Likelohood
+0.765 0.235 Likelohood
+0.766 0.234 Likelohood
+0.765 0.235 Likelohood
+0.763 0.237 Likelohood
+0.762 0.238 Likelohood
+0.762 0.238 Likelohood
+0.763 0.237 Likelohood
+0.764 0.236 Likelohood
+0.765 0.235 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.763 0.237 Likelohood
+0.763 0.237 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.763 0.237 Likelohood
+0.763 0.237 Likelohood
+0.763 0.237 Likelohood
+0.763 0.237 Likelohood
+0.762 0.238 Likelohood
+0.762 0.238 Likelohood
+0.763 0.237 Likelohood
+0.763 0.237 Likelohood
+0.763 0.237 Likelohood
+0.763 0.237 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.765 0.235 Likelohood
+0.764 0.236 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.764 0.236 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.765 0.235 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.766 0.234 Likelohood
+0.770 0.230 Gibbs
+ 0.653 0.347 Gibbs
+ 0.680 0.320 Gibbs
+ 0.739 0.261 Gibbs
+ 0.836 0.164 Gibbs
+ 0.718 0.282 Gibbs
+ 0.715 0.285 Gibbs
+ 0.750 0.250 Gibbs
+ 0.705 0.295 Gibbs
+ 0.725 0.275 Gibbs
+ 0.736 0.264 Gibbs
+ 0.724 0.276 Gibbs
+ 0.720 0.280 Gibbs
+ 0.757 0.243 Gibbs
+ 0.723 0.277 Gibbs
+ 0.839 0.161 Gibbs
+ 0.721 0.279 Gibbs
+ 0.725 0.275 Gibbs
+ 0.722 0.278 Gibbs
+ 0.723 0.277 Gibbs
+ 0.737 0.263 Gibbs
+ 0.716 0.284 Gibbs
+ 0.718 0.282 Gibbs
+ 0.748 0.252 Gibbs
+ 0.842 0.158 Gibbs
+ 0.726 0.274 Gibbs
+ 0.722 0.278 Gibbs
+ 0.719 0.281 Gibbs
+ 0.727 0.273 Gibbs
+ 0.732 0.268 Gibbs
+ 0.848 0.152 Gibbs
+ 0.719 0.281 Gibbs
+ 0.846 0.154 Gibbs
+ 0.722 0.278 Gibbs
+ 0.722 0.278 Gibbs
+ 0.735 0.265 Gibbs
+ 0.716 0.284 Gibbs
+ 0.844 0.156 Gibbs
+ 0.845 0.155 Gibbs
+ 0.713 0.287 Gibbs
+ 0.723 0.277 Gibbs
+ 0.852 0.148 Gibbs
+ 0.853 0.147 Gibbs
+ 0.740 0.260 Gibbs
+ 0.746 0.254 Gibbs
+ 0.843 0.157 Gibbs
+ 0.722 0.278 Gibbs
+ 0.839 0.161 Gibbs
+ 0.736 0.264 Gibbs
+ 0.739 0.261 Gibbs
+ 0.715 0.285 Gibbs
+ 0.745 0.255 Gibbs
+ 0.837 0.163 Gibbs
+ 0.739 0.261 Gibbs
+ 0.719 0.281 Gibbs
+ 0.719 0.281 Gibbs
+ 0.717 0.283 Gibbs
+ 0.844 0.156 Gibbs
+ 0.725 0.275 Gibbs
+ 0.726 0.274 Gibbs
+ 0.732 0.268 Gibbs
+ 0.842 0.158 Gibbs
+ 0.744 0.256 Gibbs
+ 0.718 0.282 Gibbs
+ 0.718 0.282 Gibbs
+ 0.717 0.283 Gibbs
+ 0.714 0.286 Gibbs
+ 0.723 0.277 Gibbs
+ 0.721 0.279 Gibbs
+ 0.715 0.285 Gibbs
+ 0.846 0.154 Gibbs
+ 0.719 0.281 Gibbs
+ 0.724 0.276 Gibbs
+ 0.719 0.281 Gibbs
+ 0.718 0.282 Gibbs
+ 0.724 0.276 Gibbs
+ 0.719 0.281 Gibbs
+ 0.738 0.262 Gibbs
+ 0.727 0.273 Gibbs
+ 0.718 0.282 Gibbs
+ 0.712 0.288 Gibbs
+ 0.720 0.280 Gibbs
+ 0.743 0.257 Gibbs
+ 0.727 0.273 Gibbs
+ 0.728 0.272 Gibbs
+ 0.842 0.158 Gibbs
+ 0.718 0.282 Gibbs
+ 0.848 0.152 Gibbs
+ 0.733 0.267 Gibbs
+ 0.851 0.149 Gibbs
+ 0.721 0.279 Gibbs
+ 0.723 0.277 Gibbs
+ 0.714 0.286 Gibbs
+ 0.726 0.274 Gibbs
+ 0.715 0.285 Gibbs
+ 0.723 0.277 Gibbs
+ 0.841 0.159 Gibbs
+ 0.724 0.276 Gibbs
+ 0.841 0.159 Gibbs
+ 0.840 0.160 Gibbs
+ 

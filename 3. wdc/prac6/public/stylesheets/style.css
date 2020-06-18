@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#map{
+    width: 400px;  
+    height: 200px; 
+}
+
+.button {
+    background:black;
+    border:none;
+    font-weight:400;
+    height:40px;
+    margin-top:auto;
+    margin-bottom:auto;
+    padding-left:25px;
+    padding-right:25px;
+    color:white;
+    border-radius:1px;
+    
+    }
+.button:hover {
+    background:grey;
+}

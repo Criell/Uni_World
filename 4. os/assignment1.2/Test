@@ -1,0 +1,23 @@
+#!/bin/bash
+
+make    
+
+./memsim input1.trace 4096 4 SC 
+#./memsim input2.trace 4096 8 SC
+#./memsim input3.trace 4096 12 SC
+#./memsim input4.trace 1024 128 SC
+
+#./memsim input1.trace 4096 8 ESC
+#./memsim input2.trace 4096 8 ESC >> output2.txt
+#./memsim input3.trace 4096 12 ESC >> output3.txt
+#./memsim input4.trace 1024 128 ESC >> output4.txt
+
+#./memsim input1.trace 4096 8 ARB 2
+#./memsim input2.trace 4096 8 ARB 1 >> output2.txt
+#./memsim input3.trace 4096 12 ARB 4 >> output3.txt
+#./memsim input4.trace 1024 128 ARB 16 >> output4.txt
+
+#./memsim input1.trace 4096 8 EARB 2
+#./memsim input2.trace 4096 8 EARB 1 >> output2.txt
+#./memsim input3.trace 4096 12 EARB 4 >> output3.txt
+#./memsim input4.trace 1024 128 EARB 16 >> output4.txt

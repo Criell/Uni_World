@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#Run the porgram into the test.txt file.
+#gcc -std=c11 OnlineService.c -o run
+
+make    
+
+./run input.txt > output.txt

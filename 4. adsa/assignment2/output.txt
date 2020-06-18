@@ -1,0 +1,4227 @@
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 88
+ ROOT PRE: 88 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 88
+ ROOT PRE: 88 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 88 Smaller: 78
+ ROOT PRE: 88 78 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 71
+ ROOT PRE: 88 78 71 
+ Height: 2
+H:  Height: 2
+2 - 0
+ Height: 2
+ Bal: 2
+ Height: 2
+ Bal: 2
+Recover FIND 2: 0 >  Height: 1
+1
+ Height: 1
+Before Left Node: Node Head: 88 Smaller: 78
+ ROOT PRE: 88 78 71 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 78 Smaller: 71 Bigger: 88
+ ROOT PRE: 88 
+RIGHT 
+RESULT: Node Head: 78 Smaller: 71 Bigger: 88
+ ROOT PRE: 88 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 71 Smaller: 2
+ ROOT PRE: 78 71 2 88 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 71 Bigger: 88
+ ROOT PRE: 78 71 2 88 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 2
+ ROOT PRE: 78 71 2 88 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 71 Smaller: 2
+ ROOT PRE: 78 71 2 88 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 71 Bigger: 88
+ ROOT PRE: 78 71 2 88 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 71 Smaller: 2
+ ROOT PRE: 78 71 2 88 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 71 Bigger: 88
+ ROOT PRE: 78 71 2 88 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 2 Bigger: 60
+ ROOT PRE: 78 71 2 60 88 
+ Height: 2
+H:  Height: 2
+2 - 0
+ Height: 2
+ Bal: 2
+ Height: 2
+ Bal: 2
+Recover FIND 2:  Height: 1
+1 > 0
+ Height: 1
+Before Right Node: Node Head: 2 Bigger: 60
+ ROOT PRE: 78 71 2 60 88 
+ Height: 1
+After - Temp: Node Head: 60 Smaller: 2
+ ROOT PRE: 78 71 2 88 
+RESULT: Node Head: 60 Smaller: 2
+ ROOT PRE: 78 71 2 88 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 88 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 88
+ ROOT PRE: 78 60 2 88 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 88 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 88 Smaller: 85
+ ROOT PRE: 78 60 2 88 85 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 88 85 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 2 Bigger: 65
+ ROOT PRE: 78 60 2 65 88 85 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 65 88 85 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 2
+ ROOT PRE: 78 60 2 65 88 85 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 2 Bigger: 65
+ ROOT PRE: 78 60 2 65 88 85 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 65 88 85 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 2 Bigger: 30
+ ROOT PRE: 78 60 2 30 65 88 85 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 2 Bigger: 65
+ ROOT PRE: 78 60 2 30 65 88 85 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 30 65 88 85 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 30
+ ROOT PRE: 78 60 2 30 65 88 85 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 2 Bigger: 30
+ ROOT PRE: 78 60 2 30 65 88 85 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 2 Bigger: 65
+ ROOT PRE: 78 60 2 30 65 88 85 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 30 65 88 85 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 65 Bigger: 68
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 2 Bigger: 65
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 85
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 88 Smaller: 85
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 28
+ ROOT PRE: 78 60 2 30 28 65 68 88 85 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2: 0 <  Height: 1
+1
+ Height: 1
+Before Left Node: Node Head: 30 Smaller: 28
+ ROOT PRE: 78 60 2 30 28 65 68 88 85 
+ Height: 1
+After - Temp: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+RESULT: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 2 30 65 68 88 85 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 68 88 85 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 28 30 65 68 88 85 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 28 30 65 68 88 85 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 88 Smaller: 85 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 30
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 88
+ ROOT PRE: 78 60 28 30 65 68 88 85 96 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 85 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 68 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 85
+ ROOT PRE: 78 60 28 30 65 68 85 96 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 30
+ ROOT PRE: 78 60 28 30 65 68 85 96 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 28 30 65 68 85 96 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 68 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 85
+ ROOT PRE: 78 60 28 30 65 68 85 96 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 65
+ ROOT PRE: 78 60 28 30 65 85 96 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 85
+ ROOT PRE: 78 60 28 30 65 85 96 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 85
+ ROOT PRE: 78 60 28 30 65 85 96 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 96 Smaller: 86
+ ROOT PRE: 78 60 28 30 65 85 96 86 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2: 0 <  Height: 1
+1
+ Height: 1
+Before Left Node: Node Head: 96 Smaller: 86
+ ROOT PRE: 78 60 28 30 65 85 96 86 
+ Height: 1
+After - Temp: Node Head: 86 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 85 96 
+RESULT: Node Head: 86 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 85 96 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 86
+ ROOT PRE: 78 60 28 30 65 86 96 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 96 Bigger: 100
+ ROOT PRE: 78 60 28 30 65 86 96 100 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2:  Height: 1
+1 < 0
+ Height: 1
+Before Right Node: Node Head: 86 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 86 96 100 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 96 Smaller: 86 Bigger: 100
+ ROOT PRE: 78 60 28 30 65 86 
+LEFT 
+RESULT: Node Head: 96 Smaller: 86 Bigger: 100
+ ROOT PRE: 78 60 28 30 65 86 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 96 86 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 61
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 61
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 28 Bigger: 65
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 28 30 65 61 96 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 30 Bigger: 40
+ ROOT PRE: 78 60 28 30 40 65 61 96 86 100 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2:  Height: 1
+1 < 0
+ Height: 1
+Before Right Node: Node Head: 28 Bigger: 30
+ ROOT PRE: 78 60 28 30 40 65 61 96 86 100 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 30 Smaller: 28 Bigger: 40
+ ROOT PRE: 78 60 28 65 61 96 86 100 
+LEFT 
+RESULT: Node Head: 30 Smaller: 28 Bigger: 40
+ ROOT PRE: 78 60 28 65 61 96 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 86
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 96 Smaller: 86 Bigger: 100
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 86 Smaller: 84
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 96 Smaller: 86 Bigger: 100
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 28 40 65 61 96 86 84 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 28 Smaller: 16
+ ROOT PRE: 78 60 30 28 16 40 65 61 96 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 28 Bigger: 40
+ ROOT PRE: 78 60 30 28 16 40 65 61 96 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 28 16 40 65 61 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 28 16 40 65 61 96 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 16
+ ROOT PRE: 78 60 30 28 16 40 65 61 96 86 84 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 60 30 16 40 65 61 96 86 84 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 65 61 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 65 61 96 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 40 Bigger: 45
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 40 Bigger: 45
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 16
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 61 96 86 84 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 61 Bigger: 68
+ ROOT PRE: 78 60 30 16 40 45 65 61 68 96 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 61 68 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 61 68 96 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 61 Bigger: 64
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 96 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 61 Bigger: 68
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 96 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 68 Bigger: 74
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 74 96 86 84 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 61 Bigger: 68
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 74 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 74 96 86 84 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 64 Smaller: 62
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 62 68 74 96 86 84 100 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2: 0 <  Height: 1
+1
+ Height: 1
+Before Left Node: Node Head: 64 Smaller: 62
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 62 68 74 96 86 84 100 
+ Height: 1
+After - Temp: Node Head: 62 Bigger: 64
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 74 96 86 84 100 
+RESULT: Node Head: 62 Bigger: 64
+ ROOT PRE: 78 60 30 16 40 45 65 61 64 68 74 96 86 84 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 62 Bigger: 68
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 100
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 96 Smaller: 86 Bigger: 100
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 16
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 40 Bigger: 45
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 40 Bigger: 45
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 60 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 60 Bigger: 96
+ ROOT PRE: 78 60 30 16 40 45 65 62 64 68 74 96 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 40
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 2
+ Height: 3
+H:  Height: 2
+2 -  Height: 3
+3
+ Height: 2
+ Height: 3
+ Bal: -1
+ Height: 2
+ Height: 3
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 96
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 62 Bigger: 64
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 62 Bigger: 68
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 2
+ Height: 3
+H:  Height: 2
+2 -  Height: 3
+3
+ Height: 2
+ Height: 3
+ Bal: -1
+ Height: 2
+ Height: 3
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 96
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 16
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 2
+ Height: 3
+H:  Height: 2
+2 -  Height: 3
+3
+ Height: 2
+ Height: 3
+ Bal: -1
+ Height: 2
+ Height: 3
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 96
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 86 Smaller: 84 Bigger: 95
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 95 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 96 Smaller: 86 Bigger: 100
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 95 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 96
+ ROOT PRE: 78 45 30 16 40 65 62 64 68 74 96 86 84 95 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 16 Bigger: 28
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 95 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 95 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 95 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 96
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 95 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 95 Smaller: 91
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 95 91 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 86 Smaller: 84 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 95 91 100 
+ Height: 3
+ Height: 1
+H:  Height: 3
+3 -  Height: 1
+1
+ Height: 3
+ Height: 1
+ Bal: 2
+ Height: 3
+ Height: 1
+ Bal: 2
+Recover FIND 2:  Height: 2
+2 >  Height: 1
+1
+ Height: 2
+ Height: 1
+Before Right Node: Node Head: 86 Smaller: 84 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 95 91 100 
+ Height: 1
+ Height: 1
+ Height: 2
+After - Temp: Node Head: 95 Smaller: 86
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 91 100 
+RESULT: Node Head: 95 Smaller: 86
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 96 86 84 91 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 95 86 84 91 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 28
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 95 86 84 91 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 16 Bigger: 28
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 95 86 84 91 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 95 86 84 91 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 95 86 84 91 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 65 62 64 68 74 95 86 84 91 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 40 Smaller: 34
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 28
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 16 Bigger: 28
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 74
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 68 Bigger: 74
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 62 Bigger: 68
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 16 Bigger: 28
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 78 Smaller: 45 Bigger: 95
+ ROOT PRE: 78 45 30 16 28 40 34 65 62 64 68 74 95 86 84 91 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 68
+ ROOT PRE: 74 45 30 16 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 62 Bigger: 68
+ ROOT PRE: 74 45 30 16 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 74 45 30 16 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 95
+ ROOT PRE: 74 45 30 16 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 3 Bigger: 28
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 95
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 95 86 84 91 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 95 Smaller: 86 Bigger: 100
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 95 86 84 91 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 95
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 95 86 84 91 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 86 Smaller: 84
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 91 Smaller: 86 Bigger: 100
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 91
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 62 Bigger: 64
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 62 Bigger: 68
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 91
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 84
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 86 Smaller: 84
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 91 Smaller: 86 Bigger: 100
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 91
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 64 68 91 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 62
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 68 91 86 84 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 62 Bigger: 68
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 68 91 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 68 91 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 91
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 68 91 86 84 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 62 Smaller: 55
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 55 68 91 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 62 Bigger: 68
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 55 68 91 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 55 68 91 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 91
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 55 68 91 86 84 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 55 Smaller: 46
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 55 46 68 91 86 84 100 
+ Height: 2
+H:  Height: 2
+2 - 0
+ Height: 2
+ Bal: 2
+ Height: 2
+ Bal: 2
+Recover FIND 2: 0 >  Height: 1
+1
+ Height: 1
+Before Left Node: Node Head: 62 Smaller: 55
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 55 46 68 91 86 84 100 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 55 Smaller: 46 Bigger: 62
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 68 91 86 84 100 
+RIGHT 
+RESULT: Node Head: 55 Smaller: 46 Bigger: 62
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 62 68 91 86 84 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 55 Bigger: 68
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 45 Bigger: 91
+ ROOT PRE: 74 45 30 16 3 28 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 28 Smaller: 17
+ ROOT PRE: 74 45 30 16 3 28 17 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 16 Smaller: 3 Bigger: 28
+ ROOT PRE: 74 45 30 16 3 28 17 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 74 45 30 16 3 28 17 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 65
+ ROOT PRE: 74 45 30 16 3 28 17 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 5
+ Height: 3
+H:  Height: 5
+5 -  Height: 3
+3
+ Height: 5
+ Height: 3
+ Bal: 2
+ Height: 5
+ Height: 3
+ Bal: 2
+Recover FIND 2:  Height: 3
+3 >  Height: 4
+4
+ Height: 3
+ Height: 4
+Before Left Node: Node Head: 74 Smaller: 45 Bigger: 91
+ ROOT PRE: 74 45 30 16 3 28 17 40 34 65 55 46 62 68 91 86 84 100 
+ Height: 3
+ Height: 3
+ Height: 4
+ Height: 4
+After - Temp: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 74 65 55 46 62 68 91 86 84 100 
+RIGHT 
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 74 65 55 46 62 68 91 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 68 Bigger: 70
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 55 Bigger: 68
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 3
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 16 Smaller: 3 Bigger: 28
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 17 Bigger: 25
+ ROOT PRE: 45 30 16 3 28 17 25 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 2
+H:  Height: 2
+2 - 0
+ Height: 2
+ Bal: 2
+ Height: 2
+ Bal: 2
+Recover FIND 2:  Height: 1
+1 > 0
+ Height: 1
+Before Right Node: Node Head: 17 Bigger: 25
+ ROOT PRE: 45 30 16 3 28 17 25 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 1
+After - Temp: Node Head: 25 Smaller: 17
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+RESULT: Node Head: 25 Smaller: 17
+ ROOT PRE: 45 30 16 3 28 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 16 Smaller: 3 Bigger: 25
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 86 84 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 84 Smaller: 75
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 86 84 75 100 
+ Height: 2
+H:  Height: 2
+2 - 0
+ Height: 2
+ Bal: 2
+ Height: 2
+ Bal: 2
+Recover FIND 2: 0 >  Height: 1
+1
+ Height: 1
+Before Left Node: Node Head: 86 Smaller: 84
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 86 84 75 100 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 84 Smaller: 75 Bigger: 86
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 86 100 
+RIGHT 
+RESULT: Node Head: 84 Smaller: 75 Bigger: 86
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 86 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 91 Smaller: 84 Bigger: 100
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 70
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 68 Bigger: 70
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 55 Bigger: 68
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 46
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 55 Smaller: 46 Bigger: 62
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 65 Smaller: 55 Bigger: 68
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 40 Smaller: 34
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 3 Bigger: 11
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 3 Bigger: 25
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 34
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 40 Smaller: 34
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 4
+H:  Height: 4
+4 -  Height: 4
+4
+ Height: 4
+ Height: 4
+ Bal: 0
+ Height: 4
+ Height: 4
+ Bal: 0
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 62 68 70 91 84 75 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 46 Bigger: 47
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 55 Smaller: 46 Bigger: 62
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 55 Bigger: 68
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 75
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 1
+ Height: 1
+H:  Height: 1
+1 -  Height: 1
+1
+ Height: 1
+ Height: 1
+ Bal: 0
+ Height: 1
+ Height: 1
+ Bal: 0
+RESULT: Node Head: 84 Smaller: 75 Bigger: 86
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 91 Smaller: 84 Bigger: 100
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 91 84 75 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 70 Bigger: 71
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 71 91 84 75 86 100 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2:  Height: 1
+1 < 0
+ Height: 1
+Before Right Node: Node Head: 68 Bigger: 70
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 70 71 91 84 75 86 100 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 70 Smaller: 68 Bigger: 71
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 91 84 75 86 100 
+LEFT 
+RESULT: Node Head: 70 Smaller: 68 Bigger: 71
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 68 91 84 75 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 55 Bigger: 70
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 3 Bigger: 11
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 3 Bigger: 25
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 100 Smaller: 98
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 91 Smaller: 84 Bigger: 100
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 47
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 46 Bigger: 47
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 55 Smaller: 46 Bigger: 62
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 55 Bigger: 70
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 70 68 71 91 84 75 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 62 Bigger: 63
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 55 Smaller: 46 Bigger: 62
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 55 Bigger: 70
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 11
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 3 Bigger: 11
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 3 Bigger: 25
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 3 11 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 11 Bigger: 15
+ ROOT PRE: 45 30 16 3 11 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2:  Height: 1
+1 < 0
+ Height: 1
+Before Right Node: Node Head: 3 Bigger: 11
+ ROOT PRE: 45 30 16 3 11 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 11 Smaller: 3 Bigger: 15
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+LEFT 
+RESULT: Node Head: 11 Smaller: 3 Bigger: 15
+ ROOT PRE: 45 30 16 3 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 11 Bigger: 25
+ ROOT PRE: 45 30 16 11 3 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 11 3 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 11 3 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 75 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 84 Bigger: 86
+ ROOT PRE: 45 30 16 11 3 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 91 Smaller: 84 Bigger: 100
+ ROOT PRE: 45 30 16 11 3 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 30 16 11 3 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 30 Bigger: 74
+ ROOT PRE: 45 30 16 11 3 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 3 Bigger: 4
+ ROOT PRE: 45 30 16 11 3 4 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 11 Smaller: 3 Bigger: 15
+ ROOT PRE: 45 30 16 11 3 4 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 16 Smaller: 11 Bigger: 25
+ ROOT PRE: 45 30 16 11 3 4 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 2
+H:  Height: 4
+4 -  Height: 2
+2
+ Height: 4
+ Height: 2
+ Bal: 2
+ Height: 4
+ Height: 2
+ Bal: 2
+Recover FIND 2:  Height: 2
+2 >  Height: 3
+3
+ Height: 2
+ Height: 3
+Before Left Node: Node Head: 30 Smaller: 16 Bigger: 40
+ ROOT PRE: 45 30 16 11 3 4 15 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 2
+ Height: 2
+ Height: 3
+ Height: 3
+After - Temp: Node Head: 16 Smaller: 11 Bigger: 30
+ ROOT PRE: 45 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+RIGHT 
+RESULT: Node Head: 16 Smaller: 11 Bigger: 30
+ ROOT PRE: 45 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 15
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 11 Smaller: 3 Bigger: 15
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 11 Bigger: 30
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 84 Bigger: 86
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 91 Smaller: 84 Bigger: 100
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 11 3 4 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 4 Bigger: 9
+ ROOT PRE: 45 16 11 3 4 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 2
+H: 0 -  Height: 2
+2
+ Height: 2
+ Bal: -2
+Recover FIND -2:  Height: 1
+1 < 0
+ Height: 1
+Before Right Node: Node Head: 3 Bigger: 4
+ ROOT PRE: 45 16 11 3 4 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 1
+ Height: 1
+After - Temp: Node Head: 4 Smaller: 3 Bigger: 9
+ ROOT PRE: 45 16 11 3 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+LEFT 
+RESULT: Node Head: 4 Smaller: 3 Bigger: 9
+ ROOT PRE: 45 16 11 3 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 2
+ Height: 1
+H:  Height: 2
+2 -  Height: 1
+1
+ Height: 2
+ Height: 1
+ Bal: 1
+ Height: 2
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 11 Smaller: 4 Bigger: 15
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 11 Bigger: 30
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+H: 0 - 0
+ Bal: 0
+ Bal: 0
+RESULT: Node Head: 86
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 84 86 100 98 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 91 Smaller: 86 Bigger: 100
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 70 68 71 91 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 68 Bigger: 71
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 55 Bigger: 68
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 11 4 3 9 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 1
+H:  Height: 1
+1 - 0
+ Height: 1
+ Bal: 1
+ Height: 1
+ Bal: 1
+RESULT: Node Head: 9 Smaller: 5
+ ROOT PRE: 45 16 11 4 3 9 5 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 1
+ Height: 2
+H:  Height: 1
+1 -  Height: 2
+2
+ Height: 1
+ Height: 2
+ Bal: -1
+ Height: 1
+ Height: 2
+ Bal: -1
+RESULT: Node Head: 4 Smaller: 3 Bigger: 9
+ ROOT PRE: 45 16 11 4 3 9 5 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 3
+ Height: 1
+H:  Height: 3
+3 -  Height: 1
+1
+ Height: 3
+ Height: 1
+ Bal: 2
+ Height: 3
+ Height: 1
+ Bal: 2
+Recover FIND 2:  Height: 2
+2 >  Height: 1
+1
+ Height: 2
+ Height: 1
+Before Right Node: Node Head: 4 Smaller: 3 Bigger: 9
+ ROOT PRE: 45 16 11 4 3 9 5 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 1
+ Height: 1
+ Height: 2
+After - Temp: Node Head: 9 Smaller: 4
+ ROOT PRE: 45 16 11 4 3 5 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+RESULT: Node Head: 9 Smaller: 4
+ ROOT PRE: 45 16 11 4 3 5 15 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 9 Bigger: 30
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 68 Bigger: 71
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 3
+ Height: 2
+H:  Height: 3
+3 -  Height: 2
+2
+ Height: 3
+ Height: 2
+ Bal: 1
+ Height: 3
+ Height: 2
+ Bal: 1
+RESULT: Node Head: 65 Smaller: 55 Bigger: 68
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 4
+ Height: 3
+H:  Height: 4
+4 -  Height: 3
+3
+ Height: 4
+ Height: 3
+ Bal: 1
+ Height: 4
+ Height: 3
+ Bal: 1
+RESULT: Node Head: 74 Smaller: 65 Bigger: 91
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 1
+H: 0 -  Height: 1
+1
+ Height: 1
+ Bal: -1
+ Height: 1
+ Bal: -1
+RESULT: Node Head: 17 Bigger: 22
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 22 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 2
+H:  Height: 2
+2 - 0
+ Height: 2
+ Bal: 2
+ Height: 2
+ Bal: 2
+Recover FIND 2:  Height: 1
+1 > 0
+ Height: 1
+Before Right Node: Node Head: 17 Bigger: 22
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 22 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 1
+After - Temp: Node Head: 22 Smaller: 17
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+RESULT: Node Head: 22 Smaller: 17
+ ROOT PRE: 45 16 9 4 3 5 30 25 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 2
+ Height: 2
+H:  Height: 2
+2 -  Height: 2
+2
+ Height: 2
+ Height: 2
+ Bal: 0
+ Height: 2
+ Height: 2
+ Bal: 0
+RESULT: Node Head: 30 Smaller: 22 Bigger: 40
+ ROOT PRE: 45 16 9 4 3 5 30 22 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 3
+ Height: 3
+H:  Height: 3
+3 -  Height: 3
+3
+ Height: 3
+ Height: 3
+ Bal: 0
+ Height: 3
+ Height: 3
+ Bal: 0
+RESULT: Node Head: 16 Smaller: 9 Bigger: 30
+ ROOT PRE: 45 16 9 4 3 5 30 22 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+ Height: 4
+ Height: 5
+H:  Height: 4
+4 -  Height: 5
+5
+ Height: 4
+ Height: 5
+ Bal: -1
+ Height: 4
+ Height: 5
+ Bal: -1
+RESULT: Node Head: 45 Smaller: 16 Bigger: 74
+ ROOT PRE: 45 16 9 4 3 5 30 22 17 40 34 74 65 55 46 47 62 63 68 71 91 86 100 98 
+3 5 4 9 17 22 34 40 30 16 47 46 63 62 55 71 68 65 86 98 100 91 74 45 

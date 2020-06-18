@@ -1,0 +1,7 @@
+<class>
+    <a-stack>
+        <stack>push</stack>
+        <segment>constant</segment>
+        <number>43</number>
+    </a-stack>
+</class>

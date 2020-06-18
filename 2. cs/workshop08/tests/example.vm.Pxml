@@ -1,0 +1,15 @@
+<class>
+    <a-stack>
+        <stack>push</stack>
+        <segment>constant</segment>
+        <number>5</number>
+    </a-stack>
+    <a-stack>
+        <stack>push</stack>
+        <segment>static</segment>
+        <number>6</number>
+    </a-stack>
+    <an-op>
+        <op>add</op>
+    </an-op>
+</class>

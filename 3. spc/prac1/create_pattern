@@ -1,0 +1,42 @@
+#!/bin/bash
+
+number=0
+lower=false
+
+#Take the parameters in any order and save info in variables
+while getopts "n:u" opt
+ do
+  case $opt in
+    n) 
+      number=$OPTARG
+      ;;
+    u)
+      lower=true
+      ;;
+  esac
+done
+
+begin=a
+end=z
+count=0
+
+#Shift the letter in the input until the number given
+while [ $count -lt $number ]; do
+ 	    begin=$(echo "$begin" | tr "0-9a-z" "1-9a-z")
+ 	    end=$(echo "$end" | tr "0-9a-z" "1-9a-z")
+ 	    let count=count+1
+    if [ $end = 'z' ]; then 
+        end='a'
+    fi
+done
+
+#Output upper or lower case 
+if [ "$lower" = true ]; then
+	begin=$(echo "$begin" | tr '[:lower:]' '[:upper:]')
+	end=$(echo "$end" | tr '[:lower:]' '[:upper:]')
+	swi=$(echo "[$begin-ZA-$end]")
+else
+	swi=$(echo "[$begin-za-$end]")
+fi
+
+echo "$swi"

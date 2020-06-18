@@ -1,0 +1,5304 @@
+Circular d2
+************ TIME: 0 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	-1		100	100	1		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		0	0
+d1	3  0	-1		20	20	0		10	2	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 0
+Increase
+Circular d2
+************ TIME: 1 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	99	1		5	5	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		0	1
+d1	3  0	-1		20	20	0		10	2	0		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 1
+Increase
+Circular d2
+************ TIME: 2 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	98	1		5	5	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		0	2
+d1	3  0	-1		20	20	0		10	2	0		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 2
+Increase
+Circular d2
+************ TIME: 3 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	97	1		5	5	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		0	3
+d1	3  0	-1		20	20	0		10	2	0		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 3
+Increase
+Circular d2
+************ TIME: 4 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	96	1		5	5	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		0	4
+d1	3  0	-1		20	20	0		10	2	0		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 4
+Increase
+Circular d2
+************ TIME: 5 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	95	1		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		1	0
+d1	3  0	-1		20	20	0		10	2	0		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 5
+Increase
+Circular d2
+************ TIME: 6 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	94	1		5	4	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		1	1
+d1	3  0	-1		20	20	0		10	2	0		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 6
+Increase
+Circular d2
+************ TIME: 7 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	93	1		5	4	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		1	2
+d1	3  0	-1		20	20	0		10	2	0		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 7
+Increase
+Circular d2
+************ TIME: 8 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	92	1		5	4	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		1	3
+d1	3  0	-1		20	20	0		10	2	0		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 8
+Increase
+Circular d2
+************ TIME: 9 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	91	1		5	4	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		1	4
+d1	3  0	-1		20	20	0		10	2	0		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 9
+Increase
+Circular d2
+************ TIME: 10 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	90	1		5	4	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		2	0
+d1	3  0	-1		20	20	0		10	2	0		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 10
+Increase
+Circular d2
+************ TIME: 11 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	89	1		5	4	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		2	1
+d1	3  0	-1		20	20	0		10	2	0		2	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 11
+Increase
+Circular d2
+************ TIME: 12 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	88	1		5	3	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		2	2
+d1	3  0	-1		20	20	0		10	2	0		2	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 12
+Increase
+Circular d2
+************ TIME: 13 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	87	1		5	3	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		2	3
+d1	3  0	-1		20	20	0		10	2	0		2	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 13
+Increase
+Circular d2
+************ TIME: 14 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	86	1		5	3	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		2	4
+d1	3  0	-1		20	20	0		10	2	0		2	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 14
+Increase
+Circular d2
+************ TIME: 15 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	85	1		5	3	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		3	0
+d1	3  0	-1		20	20	0		10	2	0		3	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 15
+Increase
+Circular d2
+************ TIME: 16 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	84	1		5	3	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		3	1
+d1	3  0	-1		20	20	0		10	2	0		3	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 16
+Increase
+Circular d2
+************ TIME: 17 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	83	1		5	3	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		3	2
+d1	3  0	-1		20	20	0		10	2	0		3	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 17
+Increase
+Circular d2
+************ TIME: 18 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	82	1		5	2	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		3	3
+d1	3  0	-1		20	20	0		10	2	0		3	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 18
+Increase
+Circular d2
+************ TIME: 19 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	81	1		5	2	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		3	4
+d1	3  0	-1		20	20	0		10	2	0		3	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 19
+Increase
+Circular d2
+************ TIME: 20 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	80	1		5	2	2		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		4	0
+d1	3  0	-1		20	20	0		10	2	0		4	0
+d4	4  20	-1		20	20	0		10	2	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 20
+Increase
+Circular d2
+************ TIME: 21 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	79	1		5	2	3		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		4	1
+d1	3  0	-1		20	20	0		10	2	0		4	1
+d4	4  20	-1		20	20	0		10	2	0		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 21
+Increase
+Circular d2
+************ TIME: 22 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	78	1		5	2	4		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		4	2
+d1	3  0	-1		20	20	0		10	2	0		4	2
+d4	4  20	-1		20	20	0		10	2	0		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 22
+Increase
+Circular d2
+************ TIME: 23 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	77	1		5	2	5		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		4	3
+d1	3  0	-1		20	20	0		10	2	0		4	3
+d4	4  20	-1		20	20	0		10	2	0		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 23
+Increase
+Circular d2
+************ TIME: 24 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	76	1		5	1	0		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		4	4
+d1	3  0	-1		20	20	0		10	2	0		4	4
+d4	4  20	-1		20	20	0		10	2	0		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 24
+Increase
+Circular d2
+************ TIME: 25 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	75	1		5	1	1		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		5	0
+d1	3  0	-1		20	20	0		10	2	0		5	0
+d4	4  20	-1		20	20	0		10	2	0		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 25
+Increase
+Circular d2
+************ TIME: 26 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	74	1		5	1	2		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		5	1
+d1	3  0	-1		20	20	0		10	2	0		5	1
+d4	4  20	-1		20	20	0		10	2	0		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 26
+Increase
+Circular d2
+************ TIME: 27 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	73	1		5	1	3		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		5	2
+d1	3  0	-1		20	20	0		10	2	0		5	2
+d4	4  20	-1		20	20	0		10	2	0		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 27
+Increase
+Circular d2
+************ TIME: 28 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	72	1		5	1	4		0	0
+d3	5  20	-1		30	30	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		5	3
+d1	3  0	-1		20	20	0		10	2	0		5	3
+d4	4  20	-1		20	20	0		10	2	0		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 28
+Increase
+Demote d2
+Units 1
+Counter 5
+************ TIME: 29 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	-1		30	30	1		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		5	4
+d1	3  0	-1		20	20	0		10	2	0		5	4
+d4	4  20	-1		20	20	0		10	2	0		1	4
+d2	4  0	0		100	71	0		10	2	5		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 29
+Increase
+Circular d3
+************ TIME: 30 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	29	1		5	5	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		6	0
+d1	3  0	-1		20	20	0		10	2	0		6	0
+d4	4  20	-1		20	20	0		10	2	0		2	0
+d2	4  0	0		100	71	0		10	2	5		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 30
+Increase
+Circular d3
+************ TIME: 31 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	28	1		5	5	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		6	1
+d1	3  0	-1		20	20	0		10	2	0		6	1
+d4	4  20	-1		20	20	0		10	2	0		2	1
+d2	4  0	0		100	71	0		10	2	5		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 31
+Increase
+Circular d3
+************ TIME: 32 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	27	1		5	5	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		6	2
+d1	3  0	-1		20	20	0		10	2	0		6	2
+d4	4  20	-1		20	20	0		10	2	0		2	2
+d2	4  0	0		100	71	0		10	2	5		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 32
+Increase
+Circular d3
+************ TIME: 33 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	26	1		5	5	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		6	3
+d1	3  0	-1		20	20	0		10	2	0		6	3
+d4	4  20	-1		20	20	0		10	2	0		2	3
+d2	4  0	0		100	71	0		10	2	5		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 33
+Increase
+Circular d3
+************ TIME: 34 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	25	1		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		6	4
+d1	3  0	-1		20	20	0		10	2	0		6	4
+d4	4  20	-1		20	20	0		10	2	0		2	4
+d2	4  0	0		100	71	0		10	2	5		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 34
+Increase
+Circular d3
+************ TIME: 35 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	24	1		5	4	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		7	0
+d1	3  0	-1		20	20	0		10	2	0		7	0
+d4	4  20	-1		20	20	0		10	2	0		3	0
+d2	4  0	0		100	71	0		10	2	5		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 35
+Increase
+Circular d3
+************ TIME: 36 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	23	1		5	4	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		7	1
+d1	3  0	-1		20	20	0		10	2	0		7	1
+d4	4  20	-1		20	20	0		10	2	0		3	1
+d2	4  0	0		100	71	0		10	2	5		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 36
+Increase
+Circular d3
+************ TIME: 37 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	22	1		5	4	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		7	2
+d1	3  0	-1		20	20	0		10	2	0		7	2
+d4	4  20	-1		20	20	0		10	2	0		3	2
+d2	4  0	0		100	71	0		10	2	5		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 37
+Increase
+Circular d3
+************ TIME: 38 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	21	1		5	4	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		7	3
+d1	3  0	-1		20	20	0		10	2	0		7	3
+d4	4  20	-1		20	20	0		10	2	0		3	3
+d2	4  0	0		100	71	0		10	2	5		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 38
+Increase
+Circular d3
+************ TIME: 39 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	20	1		5	4	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	4  0	-1		10	10	0		10	2	0		7	4
+d1	3  0	-1		20	20	0		10	2	0		7	4
+d4	4  20	-1		20	20	0		10	2	0		3	4
+d2	4  0	0		100	71	0		10	2	5		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 39
+Increase
+Circular d6
+************ TIME: 40 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	-1		40	40	1		5	5	0		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		0	0
+d4	4  20	-1		20	20	0		10	2	0		4	0
+d2	4  0	0		100	71	0		10	2	5		2	1
+d5	3  40	-1		15	15	0		10	2	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 40
+Increase
+Circular d6
+************ TIME: 41 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	39	1		5	5	1		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		0	1
+d4	4  20	-1		20	20	0		10	2	0		4	1
+d2	4  0	0		100	71	0		10	2	5		2	2
+d5	3  40	-1		15	15	0		10	2	0		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 41
+Increase
+Circular d6
+************ TIME: 42 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	38	1		5	5	2		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		0	2
+d4	4  20	-1		20	20	0		10	2	0		4	2
+d2	4  0	0		100	71	0		10	2	5		2	3
+d5	3  40	-1		15	15	0		10	2	0		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 42
+Increase
+Circular d6
+************ TIME: 43 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	37	1		5	5	3		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		0	3
+d4	4  20	-1		20	20	0		10	2	0		4	3
+d2	4  0	0		100	71	0		10	2	5		2	4
+d5	3  40	-1		15	15	0		10	2	0		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 43
+Increase
+Circular d6
+************ TIME: 44 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	36	1		5	5	4		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		0	4
+d4	4  20	-1		20	20	0		10	2	0		4	4
+d2	4  0	0		100	71	0		10	2	5		3	0
+d5	3  40	-1		15	15	0		10	2	0		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 44
+Increase
+Circular d6
+************ TIME: 45 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	35	1		5	5	5		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		1	0
+d4	4  20	-1		20	20	0		10	2	0		5	0
+d2	4  0	0		100	71	0		10	2	5		3	1
+d5	3  40	-1		15	15	0		10	2	0		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 45
+Increase
+Circular d6
+************ TIME: 46 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	34	1		5	4	0		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		1	1
+d4	4  20	-1		20	20	0		10	2	0		5	1
+d2	4  0	0		100	71	0		10	2	5		3	2
+d5	3  40	-1		15	15	0		10	2	0		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 46
+Increase
+Circular d6
+************ TIME: 47 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	33	1		5	4	1		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		1	2
+d4	4  20	-1		20	20	0		10	2	0		5	2
+d2	4  0	0		100	71	0		10	2	5		3	3
+d5	3  40	-1		15	15	0		10	2	0		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 47
+Increase
+Circular d6
+************ TIME: 48 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	32	1		5	4	2		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		1	3
+d4	4  20	-1		20	20	0		10	2	0		5	3
+d2	4  0	0		100	71	0		10	2	5		3	4
+d5	3  40	-1		15	15	0		10	2	0		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 48
+Increase
+Circular d6
+************ TIME: 49 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	31	1		5	4	3		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		1	4
+d4	4  20	-1		20	20	0		10	2	0		5	4
+d2	4  0	0		100	71	0		10	2	5		4	0
+d5	3  40	-1		15	15	0		10	2	0		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 49
+Increase
+Circular d6
+************ TIME: 50 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	30	1		5	4	4		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		2	0
+d4	4  20	-1		20	20	0		10	2	0		6	0
+d2	4  0	0		100	71	0		10	2	5		4	1
+d5	3  40	-1		15	15	0		10	2	0		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 50
+Increase
+Circular d6
+************ TIME: 51 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	29	1		5	4	5		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		2	1
+d4	4  20	-1		20	20	0		10	2	0		6	1
+d2	4  0	0		100	71	0		10	2	5		4	2
+d5	3  40	-1		15	15	0		10	2	0		2	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 51
+Increase
+Circular d6
+************ TIME: 52 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	28	1		5	3	0		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		2	2
+d4	4  20	-1		20	20	0		10	2	0		6	2
+d2	4  0	0		100	71	0		10	2	5		4	3
+d5	3  40	-1		15	15	0		10	2	0		2	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 52
+Increase
+Circular d6
+************ TIME: 53 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	27	1		5	3	1		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		2	3
+d4	4  20	-1		20	20	0		10	2	0		6	3
+d2	4  0	0		100	71	0		10	2	5		4	4
+d5	3  40	-1		15	15	0		10	2	0		2	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 53
+Increase
+Circular d6
+************ TIME: 54 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	26	1		5	3	2		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		2	4
+d4	4  20	-1		20	20	0		10	2	0		6	4
+d2	4  0	0		100	71	0		10	2	5		5	0
+d5	3  40	-1		15	15	0		10	2	0		2	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 54
+Increase
+Circular d6
+************ TIME: 55 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	25	1		5	3	3		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		3	0
+d4	4  20	-1		20	20	0		10	2	0		7	0
+d2	4  0	0		100	71	0		10	2	5		5	1
+d5	3  40	-1		15	15	0		10	2	0		3	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 55
+Increase
+Circular d6
+************ TIME: 56 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	24	1		5	3	4		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		3	1
+d4	4  20	-1		20	20	0		10	2	0		7	1
+d2	4  0	0		100	71	0		10	2	5		5	2
+d5	3  40	-1		15	15	0		10	2	0		3	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 56
+Increase
+Circular d6
+************ TIME: 57 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	23	1		5	3	5		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		3	2
+d4	4  20	-1		20	20	0		10	2	0		7	2
+d2	4  0	0		100	71	0		10	2	5		5	3
+d5	3  40	-1		15	15	0		10	2	0		3	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 57
+Increase
+Circular d6
+************ TIME: 58 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	22	1		5	2	0		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		3	3
+d4	4  20	-1		20	20	0		10	2	0		7	3
+d2	4  0	0		100	71	0		10	2	5		5	4
+d5	3  40	-1		15	15	0		10	2	0		3	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 58
+Increase
+Circular d6
+************ TIME: 59 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	21	1		5	2	1		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		3	4
+d4	4  20	-1		20	20	0		10	2	0		7	4
+d2	4  0	0		100	71	0		10	2	5		6	0
+d5	3  40	-1		15	15	0		10	2	0		3	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 59
+Increase
+Circular d6
+************ TIME: 60 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	20	1		5	2	2		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		4	0
+d2	4  0	0		100	71	0		10	2	5		6	1
+d5	3  40	-1		15	15	0		10	2	0		4	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 60
+Increase
+Circular d6
+************ TIME: 61 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	19	1		5	2	3		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		4	1
+d2	4  0	0		100	71	0		10	2	5		6	2
+d5	3  40	-1		15	15	0		10	2	0		4	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 61
+Increase
+Circular d6
+************ TIME: 62 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	18	1		5	2	4		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		4	2
+d2	4  0	0		100	71	0		10	2	5		6	3
+d5	3  40	-1		15	15	0		10	2	0		4	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 62
+Increase
+Circular d6
+************ TIME: 63 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	17	1		5	2	5		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		4	3
+d2	4  0	0		100	71	0		10	2	5		6	4
+d5	3  40	-1		15	15	0		10	2	0		4	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 63
+Increase
+Circular d6
+************ TIME: 64 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	16	1		5	1	0		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		4	4
+d2	4  0	0		100	71	0		10	2	5		7	0
+d5	3  40	-1		15	15	0		10	2	0		4	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 64
+Increase
+Circular d6
+************ TIME: 65 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	15	1		5	1	1		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		5	0
+d2	4  0	0		100	71	0		10	2	5		7	1
+d5	3  40	-1		15	15	0		10	2	0		5	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 65
+Increase
+Circular d6
+************ TIME: 66 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	14	1		5	1	2		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		5	1
+d2	4  0	0		100	71	0		10	2	5		7	2
+d5	3  40	-1		15	15	0		10	2	0		5	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 66
+Increase
+Circular d6
+************ TIME: 67 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	13	1		5	1	3		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		5	2
+d2	4  0	0		100	71	0		10	2	5		7	3
+d5	3  40	-1		15	15	0		10	2	0		5	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 67
+Increase
+Circular d6
+************ TIME: 68 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	6  40	40		40	12	1		5	1	4		0	0
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		5	3
+d2	4  0	0		100	71	0		10	2	5		7	4
+d5	3  40	-1		15	15	0		10	2	0		5	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 68
+Increase
+Demote d6
+Units 1
+Counter 5
+************ TIME: 69 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	19	1		5	4	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		5	4
+d5	3  40	-1		15	15	0		10	2	0		5	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 69
+Increase
+Circular d3
+************ TIME: 70 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	18	1		5	3	0		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		6	0
+d5	3  40	-1		15	15	0		10	2	0		6	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 70
+Increase
+Circular d3
+************ TIME: 71 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	17	1		5	3	1		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		6	1
+d5	3  40	-1		15	15	0		10	2	0		6	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 71
+Increase
+Circular d3
+************ TIME: 72 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	16	1		5	3	2		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		6	2
+d5	3  40	-1		15	15	0		10	2	0		6	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 72
+Increase
+Circular d3
+************ TIME: 73 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	15	1		5	3	3		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		6	3
+d5	3  40	-1		15	15	0		10	2	0		6	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 73
+Increase
+Circular d3
+************ TIME: 74 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	14	1		5	3	4		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		6	4
+d5	3  40	-1		15	15	0		10	2	0		6	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 74
+Increase
+Circular d3
+************ TIME: 75 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	13	1		5	3	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		7	0
+d5	3  40	-1		15	15	0		10	2	0		7	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 75
+Increase
+Circular d3
+************ TIME: 76 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	12	1		5	2	0		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		7	1
+d5	3  40	-1		15	15	0		10	2	0		7	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 76
+Increase
+Circular d3
+************ TIME: 77 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	11	1		5	2	1		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		7	2
+d5	3  40	-1		15	15	0		10	2	0		7	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 77
+Increase
+Circular d3
+************ TIME: 78 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	10	1		5	2	2		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		7	3
+d5	3  40	-1		15	15	0		10	2	0		7	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 78
+Increase
+Circular d3
+************ TIME: 79 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	9	1		5	2	3		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	4  0	-1		20	20	0		10	2	0		7	4
+d5	3  40	-1		15	15	0		10	2	0		7	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 79
+Increase
+Circular d3
+************ TIME: 80 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	8	1		5	2	4		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		0	0
+Give Time 80
+Increase
+Circular d3
+************ TIME: 81 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	7	1		5	2	5		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		0	1
+Give Time 81
+Increase
+Circular d3
+************ TIME: 82 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	6	1		5	1	0		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		0	2
+Give Time 82
+Increase
+Circular d3
+************ TIME: 83 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	5	1		5	1	1		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		0	3
+Give Time 83
+Increase
+Circular d3
+************ TIME: 84 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	4	1		5	1	2		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		0	4
+Give Time 84
+Increase
+Circular d3
+************ TIME: 85 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	3	1		5	1	3		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		1	0
+Give Time 85
+Increase
+Circular d3
+************ TIME: 86 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	2	1		5	1	4		0	0
+d0	5  0	-1		10	10	0		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		1	1
+Give Time 86
+Increase
+Demote d3
+Units 1
+Counter 5
+************ TIME: 87 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	-1		10	10	1		5	5	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		1	2
+d3	4  20	29		30	1	0		10	2	5		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		1	2
+Give Time 87
+Increase
+Circular d0
+************ TIME: 88 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	9	1		5	5	1		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		1	3
+d3	4  20	29		30	1	0		10	2	5		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		1	3
+Give Time 88
+Increase
+Circular d0
+************ TIME: 89 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	8	1		5	5	2		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		1	4
+d3	4  20	29		30	1	0		10	2	5		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		1	4
+Give Time 89
+Increase
+Circular d0
+************ TIME: 90 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	7	1		5	5	3		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		2	0
+d3	4  20	29		30	1	0		10	2	5		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		2	0
+Give Time 90
+Increase
+Circular d0
+************ TIME: 91 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	6	1		5	5	4		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		2	1
+d3	4  20	29		30	1	0		10	2	5		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		2	1
+Give Time 91
+Increase
+Circular d0
+************ TIME: 92 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	5	1		5	5	5		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		2	2
+d3	4  20	29		30	1	0		10	2	5		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		2	2
+Give Time 92
+Increase
+Circular d0
+************ TIME: 93 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	4	1		5	4	0		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		2	3
+d3	4  20	29		30	1	0		10	2	5		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		2	3
+Give Time 93
+Increase
+Circular d0
+************ TIME: 94 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	3	1		5	4	1		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		2	4
+d3	4  20	29		30	1	0		10	2	5		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		2	4
+Give Time 94
+Increase
+Circular d0
+************ TIME: 95 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	2	1		5	4	2		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		3	0
+d3	4  20	29		30	1	0		10	2	5		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		3	0
+Give Time 95
+Increase
+Circular d0
+************ TIME: 96 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d0	5  0	87		10	1	1		5	4	3		0	0
+d4	5  20	-1		20	20	0		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		3	1
+d3	4  20	29		30	1	0		10	2	5		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		3	1
+Circular d4
+************ TIME: 97 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	-1		20	20	1		5	5	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		4	0
+d3	4  20	29		30	1	0		10	2	5		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		4	0
+Give Time 97
+Increase
+Circular d4
+************ TIME: 98 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	19	1		5	5	1		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		4	1
+d3	4  20	29		30	1	0		10	2	5		2	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		4	1
+Give Time 98
+Increase
+Circular d4
+************ TIME: 99 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	18	1		5	5	2		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		4	2
+d3	4  20	29		30	1	0		10	2	5		2	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		4	2
+Give Time 99
+Increase
+Circular d4
+************ TIME: 100 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	17	1		5	5	3		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		4	3
+d3	4  20	29		30	1	0		10	2	5		2	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		4	3
+Give Time 100
+Increase
+Circular d4
+************ TIME: 101 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	16	1		5	5	4		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		4	4
+d3	4  20	29		30	1	0		10	2	5		2	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		4	4
+Give Time 101
+Increase
+Circular d4
+************ TIME: 102 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	15	1		5	5	5		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		5	0
+d3	4  20	29		30	1	0		10	2	5		3	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		5	0
+Give Time 102
+Increase
+Circular d4
+************ TIME: 103 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	14	1		5	4	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		5	1
+d3	4  20	29		30	1	0		10	2	5		3	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		5	1
+Give Time 103
+Increase
+Circular d4
+************ TIME: 104 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	13	1		5	4	1		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		5	2
+d3	4  20	29		30	1	0		10	2	5		3	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		5	2
+Give Time 104
+Increase
+Circular d4
+************ TIME: 105 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	12	1		5	4	2		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		5	3
+d3	4  20	29		30	1	0		10	2	5		3	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		5	3
+Give Time 105
+Increase
+Circular d4
+************ TIME: 106 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	11	1		5	4	3		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		5	4
+d3	4  20	29		30	1	0		10	2	5		3	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		5	4
+Give Time 106
+Increase
+Circular d4
+************ TIME: 107 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	10	1		5	4	4		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		6	0
+d3	4  20	29		30	1	0		10	2	5		4	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		6	0
+Give Time 107
+Increase
+Circular d4
+************ TIME: 108 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	9	1		5	4	5		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		6	1
+d3	4  20	29		30	1	0		10	2	5		4	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		6	1
+Give Time 108
+Increase
+Circular d4
+************ TIME: 109 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	8	1		5	3	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		6	2
+d3	4  20	29		30	1	0		10	2	5		4	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		6	2
+Give Time 109
+Increase
+Circular d4
+************ TIME: 110 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	7	1		5	3	1		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		6	3
+d3	4  20	29		30	1	0		10	2	5		4	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		6	3
+Give Time 110
+Increase
+Circular d4
+************ TIME: 111 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	6	1		5	3	2		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		6	4
+d3	4  20	29		30	1	0		10	2	5		4	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		6	4
+Give Time 111
+Increase
+Circular d4
+************ TIME: 112 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	5	1		5	3	3		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		7	0
+d3	4  20	29		30	1	0		10	2	5		5	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		7	0
+Give Time 112
+Increase
+Circular d4
+************ TIME: 113 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	4	1		5	3	4		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		7	1
+d3	4  20	29		30	1	0		10	2	5		5	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		7	1
+Give Time 113
+Increase
+Circular d4
+************ TIME: 114 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	3	1		5	3	5		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		7	2
+d3	4  20	29		30	1	0		10	2	5		5	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		7	2
+Give Time 114
+Increase
+Circular d4
+************ TIME: 115 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	2	1		5	2	0		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		7	3
+d3	4  20	29		30	1	0		10	2	5		5	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		7	3
+Give Time 115
+Increase
+Circular d4
+************ TIME: 116 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d4	5  20	97		20	1	1		5	2	1		0	0
+d6	5  40	40		40	11	0		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	4  40	-1		15	15	0		10	2	0		7	4
+d3	4  20	29		30	1	0		10	2	5		5	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	-1		80	80	0		20	80	0		7	4
+Circular d6
+************ TIME: 117 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	11	1		5	5	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		6	0
+d7	3  80	-1		80	80	0		10	2	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 117
+Increase
+Circular d6
+************ TIME: 118 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	10	1		5	4	0		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		6	1
+d7	3  80	-1		80	80	0		10	2	0		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 118
+Increase
+Circular d6
+************ TIME: 119 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	9	1		5	4	1		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		6	2
+d7	3  80	-1		80	80	0		10	2	0		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 119
+Increase
+Circular d6
+************ TIME: 120 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	8	1		5	4	2		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		6	3
+d7	3  80	-1		80	80	0		10	2	0		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 120
+Increase
+Circular d6
+************ TIME: 121 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	7	1		5	4	3		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		6	4
+d7	3  80	-1		80	80	0		10	2	0		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 121
+Increase
+Circular d6
+************ TIME: 122 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	6	1		5	4	4		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		7	0
+d7	3  80	-1		80	80	0		10	2	0		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 122
+Increase
+Circular d6
+************ TIME: 123 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	5	1		5	4	5		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		7	1
+d7	3  80	-1		80	80	0		10	2	0		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 123
+Increase
+Circular d6
+************ TIME: 124 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	4	1		5	3	0		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		7	2
+d7	3  80	-1		80	80	0		10	2	0		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 124
+Increase
+Circular d6
+************ TIME: 125 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	3	1		5	3	1		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		7	3
+d7	3  80	-1		80	80	0		10	2	0		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 125
+Increase
+Circular d6
+************ TIME: 126 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	2	1		5	3	2		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	4  20	29		30	1	0		10	2	5		7	4
+d7	3  80	-1		80	80	0		10	2	0		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 126
+Increase
+Circular d6
+************ TIME: 127 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d6	5  40	40		40	1	1		5	3	3		0	0
+d2	5  0	0		100	71	0		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Circular d2
+************ TIME: 128 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	71	1		5	5	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		3	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 128
+Increase
+Circular d2
+************ TIME: 129 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	70	1		5	4	0		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		3	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 129
+Increase
+Circular d2
+************ TIME: 130 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	69	1		5	4	1		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		3	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 130
+Increase
+Circular d2
+************ TIME: 131 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	68	1		5	4	2		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		3	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 131
+Increase
+Circular d2
+************ TIME: 132 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	67	1		5	4	3		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		3	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 132
+Increase
+Circular d2
+************ TIME: 133 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	66	1		5	4	4		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		4	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 133
+Increase
+Circular d2
+************ TIME: 134 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	65	1		5	4	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		4	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 134
+Increase
+Circular d2
+************ TIME: 135 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	64	1		5	3	0		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		4	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 135
+Increase
+Circular d2
+************ TIME: 136 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	63	1		5	3	1		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		4	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 136
+Increase
+Circular d2
+************ TIME: 137 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	62	1		5	3	2		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		4	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 137
+Increase
+Circular d2
+************ TIME: 138 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	61	1		5	3	3		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		5	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 138
+Increase
+Circular d2
+************ TIME: 139 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	60	1		5	3	4		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		5	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 139
+Increase
+Circular d2
+************ TIME: 140 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	59	1		5	3	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		5	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 140
+Increase
+Circular d2
+************ TIME: 141 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	58	1		5	2	0		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		5	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 141
+Increase
+Circular d2
+************ TIME: 142 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	57	1		5	2	1		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		5	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 142
+Increase
+Circular d2
+************ TIME: 143 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	56	1		5	2	2		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		6	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 143
+Increase
+Circular d2
+************ TIME: 144 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	55	1		5	2	3		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		6	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 144
+Increase
+Circular d2
+************ TIME: 145 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	54	1		5	2	4		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		6	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 145
+Increase
+Circular d2
+************ TIME: 146 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	53	1		5	2	5		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		6	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 146
+Increase
+Circular d2
+************ TIME: 147 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	52	1		5	1	0		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		6	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 147
+Increase
+Circular d2
+************ TIME: 148 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	51	1		5	1	1		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		7	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 148
+Increase
+Circular d2
+************ TIME: 149 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	50	1		5	1	2		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		7	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 149
+Increase
+Circular d2
+************ TIME: 150 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	49	1		5	1	3		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		7	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 150
+Increase
+Circular d2
+************ TIME: 151 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	48	1		5	1	4		0	0
+d1	5  0	-1		20	20	0		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		7	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 151
+Increase
+Demote d2
+Units 1
+Counter 5
+************ TIME: 152 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	-1		20	20	1		5	5	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	-1		80	80	0		10	2	0		7	4
+d2	4  0	0		100	47	0		10	2	5		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 152
+Increase
+Circular d1
+************ TIME: 153 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	19	1		5	5	1		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		0	0
+d2	4  0	0		100	47	0		10	2	5		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 153
+Increase
+Circular d1
+************ TIME: 154 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	18	1		5	5	2		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		0	1
+d2	4  0	0		100	47	0		10	2	5		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 154
+Increase
+Circular d1
+************ TIME: 155 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	17	1		5	5	3		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		0	2
+d2	4  0	0		100	47	0		10	2	5		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 155
+Increase
+Circular d1
+************ TIME: 156 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	16	1		5	5	4		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		0	3
+d2	4  0	0		100	47	0		10	2	5		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 156
+Increase
+Circular d1
+************ TIME: 157 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	15	1		5	5	5		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		0	4
+d2	4  0	0		100	47	0		10	2	5		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 157
+Increase
+Circular d1
+************ TIME: 158 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	14	1		5	4	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		1	0
+d2	4  0	0		100	47	0		10	2	5		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 158
+Increase
+Circular d1
+************ TIME: 159 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	13	1		5	4	1		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		1	1
+d2	4  0	0		100	47	0		10	2	5		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 159
+Increase
+Circular d1
+************ TIME: 160 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	12	1		5	4	2		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		1	2
+d2	4  0	0		100	47	0		10	2	5		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		0	0
+Give Time 160
+Increase
+Circular d1
+************ TIME: 161 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	11	1		5	4	3		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		1	3
+d2	4  0	0		100	47	0		10	2	5		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		0	1
+Give Time 161
+Increase
+Circular d1
+************ TIME: 162 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	10	1		5	4	4		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		1	4
+d2	4  0	0		100	47	0		10	2	5		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		0	2
+Give Time 162
+Increase
+Circular d1
+************ TIME: 163 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	9	1		5	4	5		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		2	0
+d2	4  0	0		100	47	0		10	2	5		2	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		0	3
+Give Time 163
+Increase
+Circular d1
+************ TIME: 164 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	8	1		5	3	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		2	1
+d2	4  0	0		100	47	0		10	2	5		2	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		0	4
+Give Time 164
+Increase
+Circular d1
+************ TIME: 165 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	7	1		5	3	1		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		2	2
+d2	4  0	0		100	47	0		10	2	5		2	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		1	0
+Give Time 165
+Increase
+Circular d1
+************ TIME: 166 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	6	1		5	3	2		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		2	3
+d2	4  0	0		100	47	0		10	2	5		2	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		1	1
+Give Time 166
+Increase
+Circular d1
+************ TIME: 167 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	5	1		5	3	3		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		2	4
+d2	4  0	0		100	47	0		10	2	5		3	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		1	2
+Give Time 167
+Increase
+Circular d1
+************ TIME: 168 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	4	1		5	3	4		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		3	0
+d2	4  0	0		100	47	0		10	2	5		3	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		1	3
+Give Time 168
+Increase
+Circular d1
+************ TIME: 169 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	3	1		5	3	5		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		3	1
+d2	4  0	0		100	47	0		10	2	5		3	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		1	4
+Give Time 169
+Increase
+Circular d1
+************ TIME: 170 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	2	1		5	2	0		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		3	2
+d2	4  0	0		100	47	0		10	2	5		3	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		2	0
+Give Time 170
+Increase
+Circular d1
+************ TIME: 171 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d1	5  0	152		20	1	1		5	2	1		0	0
+d5	5  40	-1		15	15	0		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		3	3
+d2	4  0	0		100	47	0		10	2	5		3	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		2	1
+Circular d5
+************ TIME: 172 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	-1		15	15	1		5	5	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		4	0
+d2	4  0	0		100	47	0		10	2	5		4	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		3	0
+Give Time 172
+Increase
+Circular d5
+************ TIME: 173 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	14	1		5	5	1		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		4	1
+d2	4  0	0		100	47	0		10	2	5		4	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		3	1
+Give Time 173
+Increase
+Circular d5
+************ TIME: 174 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	13	1		5	5	2		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		4	2
+d2	4  0	0		100	47	0		10	2	5		4	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		3	2
+Give Time 174
+Increase
+Circular d5
+************ TIME: 175 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	12	1		5	5	3		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		4	3
+d2	4  0	0		100	47	0		10	2	5		4	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		3	3
+Give Time 175
+Increase
+Circular d5
+************ TIME: 176 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	11	1		5	5	4		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		4	4
+d2	4  0	0		100	47	0		10	2	5		4	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		3	4
+Give Time 176
+Increase
+Circular d5
+************ TIME: 177 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	10	1		5	5	5		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		5	0
+d2	4  0	0		100	47	0		10	2	5		5	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		4	0
+Give Time 177
+Increase
+Circular d5
+************ TIME: 178 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	9	1		5	4	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		5	1
+d2	4  0	0		100	47	0		10	2	5		5	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		4	1
+Give Time 178
+Increase
+Circular d5
+************ TIME: 179 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	8	1		5	4	1		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		5	2
+d2	4  0	0		100	47	0		10	2	5		5	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		4	2
+Give Time 179
+Increase
+Circular d5
+************ TIME: 180 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	7	1		5	4	2		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		5	3
+d2	4  0	0		100	47	0		10	2	5		5	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		4	3
+Give Time 180
+Increase
+Circular d5
+************ TIME: 181 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	6	1		5	4	3		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		5	4
+d2	4  0	0		100	47	0		10	2	5		5	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		4	4
+Give Time 181
+Increase
+Circular d5
+************ TIME: 182 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	5	1		5	4	4		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		6	0
+d2	4  0	0		100	47	0		10	2	5		6	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		5	0
+Give Time 182
+Increase
+Circular d5
+************ TIME: 183 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	4	1		5	4	5		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		6	1
+d2	4  0	0		100	47	0		10	2	5		6	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		5	1
+Give Time 183
+Increase
+Circular d5
+************ TIME: 184 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	3	1		5	3	0		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		6	2
+d2	4  0	0		100	47	0		10	2	5		6	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		5	2
+Give Time 184
+Increase
+Circular d5
+************ TIME: 185 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	2	1		5	3	1		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		6	3
+d2	4  0	0		100	47	0		10	2	5		6	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		5	3
+Give Time 185
+Increase
+Circular d5
+************ TIME: 186 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d5	5  40	172		15	1	1		5	3	2		0	0
+d3	5  20	29		30	1	0		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		6	4
+d2	4  0	0		100	47	0		10	2	5		6	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		5	4
+Circular d3
+************ TIME: 187 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d3	5  20	29		30	1	1		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		7	0
+d2	4  0	0		100	47	0		10	2	5		7	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		6	0
+Circular d7
+************ TIME: 188 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	47	1		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		7	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		7	0
+Give Time 188
+Increase
+Circular d2
+************ TIME: 189 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	46	1		5	4	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		7	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		7	1
+Give Time 189
+Increase
+Circular d2
+************ TIME: 190 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	45	1		5	4	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		7	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		7	2
+Give Time 190
+Increase
+Circular d2
+************ TIME: 191 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	44	1		5	4	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		7	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		7	3
+Give Time 191
+Increase
+Circular d2
+************ TIME: 192 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	43	1		5	4	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	-1		80	80	0		10	2	0		7	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	1  160	-1		10	10	0		20	10	0		7	4
+Give Time 192
+Increase
+Circular d2
+************ TIME: 193 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	42	1		5	4	4		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		0	0
+Give Time 193
+Increase
+Circular d2
+************ TIME: 194 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	41	1		5	4	5		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		0	1
+Give Time 194
+Increase
+Circular d2
+************ TIME: 195 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	40	1		5	3	0		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		0	2
+Give Time 195
+Increase
+Circular d2
+************ TIME: 196 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	39	1		5	3	1		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		0	3
+Give Time 196
+Increase
+Circular d2
+************ TIME: 197 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	38	1		5	3	2		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		0	4
+Give Time 197
+Increase
+Circular d2
+************ TIME: 198 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	37	1		5	3	3		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		1	0
+Give Time 198
+Increase
+Circular d2
+************ TIME: 199 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	36	1		5	3	4		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		1	1
+Give Time 199
+Increase
+Circular d2
+************ TIME: 200 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	35	1		5	3	5		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		1	2
+Give Time 200
+Increase
+Circular d2
+************ TIME: 201 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	34	1		5	2	0		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		1	3
+Give Time 201
+Increase
+Circular d2
+************ TIME: 202 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	33	1		5	2	1		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		1	4
+Give Time 202
+Increase
+Circular d2
+************ TIME: 203 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	32	1		5	2	2		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		2	0
+Give Time 203
+Increase
+Circular d2
+************ TIME: 204 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	31	1		5	2	3		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		2	1
+Give Time 204
+Increase
+Circular d2
+************ TIME: 205 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	30	1		5	2	4		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		2	2
+Give Time 205
+Increase
+Circular d2
+************ TIME: 206 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	29	1		5	2	5		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		2	3
+Give Time 206
+Increase
+Circular d2
+************ TIME: 207 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	28	1		5	1	0		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		2	4
+Give Time 207
+Increase
+Circular d2
+************ TIME: 208 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	27	1		5	1	1		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		3	0
+Give Time 208
+Increase
+Circular d2
+************ TIME: 209 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	26	1		5	1	2		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		3	1
+Give Time 209
+Increase
+Circular d2
+************ TIME: 210 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	25	1		5	1	3		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		3	2
+Give Time 210
+Increase
+Circular d2
+************ TIME: 211 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	5  0	0		100	24	1		5	1	4		0	0
+d7	5  80	-1		80	80	0		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		3	3
+Give Time 211
+Increase
+Demote d2
+Units 1
+Counter 5
+************ TIME: 212 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	-1		80	80	1		5	5	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		3	4
+Give Time 212
+Increase
+Circular d7
+************ TIME: 213 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	79	1		5	5	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		4	0
+Give Time 213
+Increase
+Circular d7
+************ TIME: 214 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	78	1		5	5	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		4	1
+Give Time 214
+Increase
+Circular d7
+************ TIME: 215 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	77	1		5	5	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		4	2
+Give Time 215
+Increase
+Circular d7
+************ TIME: 216 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	76	1		5	5	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		4	3
+Give Time 216
+Increase
+Circular d7
+************ TIME: 217 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	75	1		5	5	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		4	4
+Give Time 217
+Increase
+Circular d7
+************ TIME: 218 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	74	1		5	4	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		5	0
+Give Time 218
+Increase
+Circular d7
+************ TIME: 219 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	73	1		5	4	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		5	1
+Give Time 219
+Increase
+Circular d7
+************ TIME: 220 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	72	1		5	4	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		5	2
+Give Time 220
+Increase
+Circular d7
+************ TIME: 221 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	71	1		5	4	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		5	3
+Give Time 221
+Increase
+Circular d7
+************ TIME: 222 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	70	1		5	4	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		5	4
+Give Time 222
+Increase
+Circular d7
+************ TIME: 223 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	69	1		5	4	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		2	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		6	0
+Give Time 223
+Increase
+Circular d7
+************ TIME: 224 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	68	1		5	3	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		2	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		6	1
+Give Time 224
+Increase
+Circular d7
+************ TIME: 225 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	67	1		5	3	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		2	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		6	2
+Give Time 225
+Increase
+Circular d7
+************ TIME: 226 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	66	1		5	3	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		2	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		6	3
+Give Time 226
+Increase
+Circular d7
+************ TIME: 227 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	65	1		5	3	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		3	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		6	4
+Give Time 227
+Increase
+Circular d7
+************ TIME: 228 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	64	1		5	3	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		3	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		7	0
+Give Time 228
+Increase
+Circular d7
+************ TIME: 229 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	63	1		5	3	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		3	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		7	1
+Give Time 229
+Increase
+Circular d7
+************ TIME: 230 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	62	1		5	2	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		3	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		7	2
+Give Time 230
+Increase
+Circular d7
+************ TIME: 231 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	61	1		5	2	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		3	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		7	3
+Give Time 231
+Increase
+Circular d7
+************ TIME: 232 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	60	1		5	2	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		4	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	2  160	-1		10	10	0		20	10	0		7	4
+Give Time 232
+Increase
+Circular d7
+************ TIME: 233 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	59	1		5	2	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		4	1
+d8	3  160	-1		10	10	0		10	2	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 233
+Increase
+Circular d7
+************ TIME: 234 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	58	1		5	2	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		4	2
+d8	3  160	-1		10	10	0		10	2	0		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 234
+Increase
+Circular d7
+************ TIME: 235 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	57	1		5	2	5		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		4	3
+d8	3  160	-1		10	10	0		10	2	0		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 235
+Increase
+Circular d7
+************ TIME: 236 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	56	1		5	1	0		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		4	4
+d8	3  160	-1		10	10	0		10	2	0		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 236
+Increase
+Circular d7
+************ TIME: 237 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	55	1		5	1	1		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		5	0
+d8	3  160	-1		10	10	0		10	2	0		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 237
+Increase
+Circular d7
+************ TIME: 238 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	54	1		5	1	2		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		5	1
+d8	3  160	-1		10	10	0		10	2	0		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 238
+Increase
+Circular d7
+************ TIME: 239 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	53	1		5	1	3		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		5	2
+d8	3  160	-1		10	10	0		10	2	0		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 239
+Increase
+Circular d7
+************ TIME: 240 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	5  80	212		80	52	1		5	1	4		0	0
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	0		10	2	5		5	3
+d8	3  160	-1		10	10	0		10	2	0		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 240
+Increase
+Demote d7
+Units 1
+Counter 5
+************ TIME: 241 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	23	1		10	2	5		5	4
+d8	3  160	-1		10	10	0		10	2	0		1	3
+d7	4  80	212		80	51	0		10	2	5		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 241
+Increase
+Circular d2
+************ TIME: 242 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	22	1		10	2	6		0	0
+d8	3  160	-1		10	10	0		10	2	0		1	4
+d7	4  80	212		80	51	0		10	2	5		0	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 242
+Increase
+Circular d2
+************ TIME: 243 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	21	1		10	2	7		0	0
+d8	3  160	-1		10	10	0		10	2	0		2	0
+d7	4  80	212		80	51	0		10	2	5		0	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 243
+Increase
+Circular d2
+************ TIME: 244 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	20	1		10	2	8		0	0
+d8	3  160	-1		10	10	0		10	2	0		2	1
+d7	4  80	212		80	51	0		10	2	5		0	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 244
+Increase
+Circular d2
+************ TIME: 245 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	19	1		10	2	9		0	0
+d8	3  160	-1		10	10	0		10	2	0		2	2
+d7	4  80	212		80	51	0		10	2	5		0	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 245
+Increase
+Circular d2
+************ TIME: 246 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	18	1		10	2	10		0	0
+d8	3  160	-1		10	10	0		10	2	0		2	3
+d7	4  80	212		80	51	0		10	2	5		1	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 246
+Increase
+Circular d2
+************ TIME: 247 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	17	1		10	1	0		0	0
+d8	3  160	-1		10	10	0		10	2	0		2	4
+d7	4  80	212		80	51	0		10	2	5		1	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 247
+Increase
+Circular d2
+************ TIME: 248 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	16	1		10	1	1		0	0
+d8	3  160	-1		10	10	0		10	2	0		3	0
+d7	4  80	212		80	51	0		10	2	5		1	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 248
+Increase
+Circular d2
+************ TIME: 249 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	15	1		10	1	2		0	0
+d8	3  160	-1		10	10	0		10	2	0		3	1
+d7	4  80	212		80	51	0		10	2	5		1	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 249
+Increase
+Circular d2
+************ TIME: 250 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	14	1		10	1	3		0	0
+d8	3  160	-1		10	10	0		10	2	0		3	2
+d7	4  80	212		80	51	0		10	2	5		1	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 250
+Increase
+Circular d2
+************ TIME: 251 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	13	1		10	1	4		0	0
+d8	3  160	-1		10	10	0		10	2	0		3	3
+d7	4  80	212		80	51	0		10	2	5		2	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 251
+Increase
+Circular d2
+************ TIME: 252 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	12	1		10	1	5		0	0
+d8	3  160	-1		10	10	0		10	2	0		3	4
+d7	4  80	212		80	51	0		10	2	5		2	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 252
+Increase
+Circular d2
+************ TIME: 253 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	11	1		10	1	6		0	0
+d8	3  160	-1		10	10	0		10	2	0		4	0
+d7	4  80	212		80	51	0		10	2	5		2	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 253
+Increase
+Circular d2
+************ TIME: 254 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	10	1		10	1	7		0	0
+d8	3  160	-1		10	10	0		10	2	0		4	1
+d7	4  80	212		80	51	0		10	2	5		2	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 254
+Increase
+Circular d2
+************ TIME: 255 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	9	1		10	1	8		0	0
+d8	3  160	-1		10	10	0		10	2	0		4	2
+d7	4  80	212		80	51	0		10	2	5		2	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 255
+Increase
+Circular d2
+************ TIME: 256 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	4  0	0		100	8	1		10	1	9		0	0
+d8	3  160	-1		10	10	0		10	2	0		4	3
+d7	4  80	212		80	51	0		10	2	5		3	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 256
+Increase
+Demote d2
+Units 1
+Counter 10
+Circular d2
+************ TIME: 257 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	3  0	0		100	7	1		10	2	10		0	0
+d8	3  160	-1		10	10	0		10	2	0		4	4
+d7	4  80	212		80	51	0		10	2	5		3	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 257
+Increase
+Circular d2
+************ TIME: 258 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	3  0	0		100	6	1		10	1	0		0	0
+d8	3  160	-1		10	10	0		10	2	0		5	0
+d7	4  80	212		80	51	0		10	2	5		3	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 258
+Increase
+Circular d2
+************ TIME: 259 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	3  0	0		100	5	1		10	1	1		0	0
+d8	3  160	-1		10	10	0		10	2	0		5	1
+d7	4  80	212		80	51	0		10	2	5		3	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 259
+Increase
+Circular d2
+************ TIME: 260 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	3  0	0		100	4	1		10	1	2		0	0
+d8	3  160	-1		10	10	0		10	2	0		5	2
+d7	4  80	212		80	51	0		10	2	5		3	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 260
+Increase
+Circular d2
+************ TIME: 261 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	3  0	0		100	3	1		10	1	3		0	0
+d8	3  160	-1		10	10	0		10	2	0		5	3
+d7	4  80	212		80	51	0		10	2	5		4	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 261
+Increase
+Circular d2
+************ TIME: 262 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	3  0	0		100	2	1		10	1	4		0	0
+d8	3  160	-1		10	10	0		10	2	0		5	4
+d7	4  80	212		80	51	0		10	2	5		4	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 262
+Increase
+Circular d2
+************ TIME: 263 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d2	3  0	0		100	1	1		10	1	5		0	0
+d8	3  160	-1		10	10	0		10	2	0		6	0
+d7	4  80	212		80	51	0		10	2	5		4	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Circular d8
+************ TIME: 264 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	-1		10	10	1		10	2	0		6	0
+d7	4  80	212		80	51	0		10	2	5		5	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 264
+Increase
+Circular d8
+************ TIME: 265 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	9	1		10	2	1		0	0
+d7	4  80	212		80	51	0		10	2	5		5	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 265
+Increase
+Circular d8
+************ TIME: 266 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	8	1		10	2	2		0	0
+d7	4  80	212		80	51	0		10	2	5		5	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 266
+Increase
+Circular d8
+************ TIME: 267 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	7	1		10	2	3		0	0
+d7	4  80	212		80	51	0		10	2	5		5	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 267
+Increase
+Circular d8
+************ TIME: 268 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	6	1		10	2	4		0	0
+d7	4  80	212		80	51	0		10	2	5		5	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 268
+Increase
+Circular d8
+************ TIME: 269 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	5	1		10	2	5		0	0
+d7	4  80	212		80	51	0		10	2	5		6	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 269
+Increase
+Circular d8
+************ TIME: 270 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	4	1		10	2	6		0	0
+d7	4  80	212		80	51	0		10	2	5		6	1
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 270
+Increase
+Circular d8
+************ TIME: 271 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	3	1		10	2	7		0	0
+d7	4  80	212		80	51	0		10	2	5		6	2
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 271
+Increase
+Circular d8
+************ TIME: 272 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	2	1		10	2	8		0	0
+d7	4  80	212		80	51	0		10	2	5		6	3
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 272
+Increase
+Circular d8
+************ TIME: 273 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d8	3  160	264		10	1	1		10	2	9		0	0
+d7	4  80	212		80	51	0		10	2	5		6	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Circular d7
+************ TIME: 274 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	51	1		10	2	5		6	4
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 274
+Increase
+Circular d7
+************ TIME: 275 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	50	1		10	2	6		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 275
+Increase
+Circular d7
+************ TIME: 276 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	49	1		10	2	7		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 276
+Increase
+Circular d7
+************ TIME: 277 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	48	1		10	2	8		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 277
+Increase
+Circular d7
+************ TIME: 278 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	47	1		10	2	9		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 278
+Increase
+Circular d7
+************ TIME: 279 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	46	1		10	2	10		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 279
+Increase
+Circular d7
+************ TIME: 280 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	45	1		10	1	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 280
+Increase
+Circular d7
+************ TIME: 281 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	44	1		10	1	1		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 281
+Increase
+Circular d7
+************ TIME: 282 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	43	1		10	1	2		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 282
+Increase
+Circular d7
+************ TIME: 283 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	42	1		10	1	3		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 283
+Increase
+Circular d7
+************ TIME: 284 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	41	1		10	1	4		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 284
+Increase
+Circular d7
+************ TIME: 285 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	40	1		10	1	5		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 285
+Increase
+Circular d7
+************ TIME: 286 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	39	1		10	1	6		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 286
+Increase
+Circular d7
+************ TIME: 287 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	38	1		10	1	7		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 287
+Increase
+Circular d7
+************ TIME: 288 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	37	1		10	1	8		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 288
+Increase
+Circular d7
+************ TIME: 289 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	4  80	212		80	36	1		10	1	9		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 289
+Increase
+Demote d7
+Units 1
+Counter 10
+Circular d7
+************ TIME: 290 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	35	1		10	2	10		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 290
+Increase
+Circular d7
+************ TIME: 291 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	34	1		10	1	0		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 291
+Increase
+Circular d7
+************ TIME: 292 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	33	1		10	1	1		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 292
+Increase
+Circular d7
+************ TIME: 293 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	32	1		10	1	2		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 293
+Increase
+Circular d7
+************ TIME: 294 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	31	1		10	1	3		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 294
+Increase
+Circular d7
+************ TIME: 295 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	30	1		10	1	4		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 295
+Increase
+Circular d7
+************ TIME: 296 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	29	1		10	1	5		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 296
+Increase
+Circular d7
+************ TIME: 297 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	28	1		10	1	6		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 297
+Increase
+Circular d7
+************ TIME: 298 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	27	1		10	1	7		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 298
+Increase
+Circular d7
+************ TIME: 299 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	26	1		10	1	8		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 299
+Increase
+Circular d7
+************ TIME: 300 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	3  80	212		80	25	1		10	1	9		0	0
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+Give Time 300
+Increase
+Demote d7
+Units 1
+Counter 10
+************ TIME: 301 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	24	1		20	24	10		0	0
+Give Time 301
+Increase
+Circular d7
+************ TIME: 302 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	23	1		20	24	11		0	0
+Give Time 302
+Increase
+Circular d7
+************ TIME: 303 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	22	1		20	24	12		0	0
+Give Time 303
+Increase
+Circular d7
+************ TIME: 304 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	21	1		20	24	13		0	0
+Give Time 304
+Increase
+Circular d7
+************ TIME: 305 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	20	1		20	24	14		0	0
+Give Time 305
+Increase
+Circular d7
+************ TIME: 306 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	19	1		20	24	15		0	0
+Give Time 306
+Increase
+Circular d7
+************ TIME: 307 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	18	1		20	24	16		0	0
+Give Time 307
+Increase
+Circular d7
+************ TIME: 308 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	17	1		20	24	17		0	0
+Give Time 308
+Increase
+Circular d7
+************ TIME: 309 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	16	1		20	24	18		0	0
+Give Time 309
+Increase
+Circular d7
+************ TIME: 310 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	15	1		20	24	19		0	0
+Give Time 310
+Increase
+Circular d7
+************ TIME: 311 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	14	1		20	24	20		0	0
+Give Time 311
+Increase
+Circular d7
+************ TIME: 312 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	13	1		20	23	0		0	0
+Give Time 312
+Increase
+Circular d7
+************ TIME: 313 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	12	1		20	23	1		0	0
+Give Time 313
+Increase
+Circular d7
+************ TIME: 314 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	11	1		20	23	2		0	0
+Give Time 314
+Increase
+Circular d7
+************ TIME: 315 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	10	1		20	23	3		0	0
+Give Time 315
+Increase
+Circular d7
+************ TIME: 316 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	9	1		20	23	4		0	0
+Give Time 316
+Increase
+Circular d7
+************ TIME: 317 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	8	1		20	23	5		0	0
+Give Time 317
+Increase
+Circular d7
+************ TIME: 318 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	7	1		20	23	6		0	0
+Give Time 318
+Increase
+Circular d7
+************ TIME: 319 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	6	1		20	23	7		0	0
+Give Time 319
+Increase
+Circular d7
+************ TIME: 320 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	5	1		20	23	8		0	0
+Give Time 320
+Increase
+Circular d7
+************ TIME: 321 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	4	1		20	23	9		0	0
+Give Time 321
+Increase
+Circular d7
+************ TIME: 322 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	3	1		20	23	10		0	0
+Give Time 322
+Increase
+Circular d7
+************ TIME: 323 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	2	1		20	23	11		0	0
+Give Time 323
+Increase
+Circular d7
+************ TIME: 324 ************
+P1
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P1l
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P2
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+P3
+ID Pri Arri Ready CPU Time LHead MaxU Units UCount Age Dust
+d7	2  80	212		80	1	1		20	23	12		0	0
+Index	Priority	Arrival	End	Ready	CPU_Time	Waiting
+d0	5	0	97	87	10	0
+d4	5	20	117	97	20	0
+d6	5	40	128	40	40	48
+d1	5	0	172	152	20	0
+d5	5	40	187	172	15	0
+d3	5	20	188	29	30	129
+d2	3	0	264	0	100	164
+d8	3	160	274	264	10	0
+d7	2	80	325	212	80	33

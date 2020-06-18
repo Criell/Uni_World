@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#File that call make to compile the parent and child classes and the main
+# and created the star executable.
+#And run the test into the test.txt file.
+
+make    
+
+./star easytest.txt 0 0 4 0 > test.txt
+./star testgrid_small.txt 0 0 3 1 >> test.txt
+./star testgrid_large.txt 0 1 4 14 >> test.txt
+./star testgrid_large.txt 0 8 19 14 >> test.txt
+./star testgrid_large.txt 10 3 5 0 >> test.txt
+./star testgrid_large.txt 5 14 2 0 >> test.txt
+./star testgrid_large.txt 0 13 0 0 >> test.txt
