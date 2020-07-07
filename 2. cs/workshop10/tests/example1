@@ -1,6 +1,0 @@
-var x ;
-var y ;
-while ( x < y )
-{
-	let y = x * 5 ;
-}

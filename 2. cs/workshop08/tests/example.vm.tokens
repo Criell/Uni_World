@@ -1,9 +1,0 @@
-<tokens>
-    <stack>push</stack>
-    <segment>constant</segment>
-    <number>5</number>
-    <stack>push</stack>
-    <segment>static</segment>
-    <number>6</number>
-    <op>add</op>
-</tokens>
