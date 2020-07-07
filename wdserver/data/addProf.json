@@ -1,0 +1,25 @@
+[
+     {
+        "Image": "https://ritzcarlton-h.assetsadobe.com/is/image/content/dam/the-ritz-carlton/hotels/usa-and-canada/florida/miami-the-miami-beach-edition/guest-rooms/ED-MIAEB-07-new_RCMMBED_00024.png?$MedViewport100pct$",
+        "HotelName": "Silver Jewel Resort",
+        "RoomNumber": 6,
+        "DateIn": "Mar 2, 2018",
+        "DateOut": "Mar 15, 2018",
+        "Adults": 1,
+        "kids": 2,
+        "Location": "brisbane, Australia",
+        "Price": 210,
+        "Reviewscore": 3
+      },
+      {
+        "Image": "https://ritzcarlton-h.assetsadobe.com/is/image/content/dam/the-ritz-carlton/hotels/usa-and-canada/florida/miami-the-miami-beach-edition/guest-rooms/ED-MIAEB-07-new_RCMMBED_00024.png?$MedViewport100pct$",
+        "HotelName": "Ebony Castle Hotel",
+        "RoomNumber": 20,
+        "DateIn": "Dec 2, 2018",
+        "DateOut": "Dec 15, 2018",
+        "Adults": 2,
+        "kids": 3,
+        "Location": "Melboune, Australia",
+        "Price": 176
+      }
+]

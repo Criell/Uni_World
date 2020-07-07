@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>cart</title>
+        <meta name="checkout" content="window to do checkout.">
+        <link rel="stylesheet" href="stylesheets/ck.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="javascripts/ck.js"></script>
+    </head>
+    <body onload="getCustomer()" class ="ck_fix">
+       <header class="ck_links">
+           <div class="ck_logo"><a href="index.html"> <img src="images/logo.jpg" alt="#"></a></div>
+            <div class="ck_but">
+                <button formtarget="_blank" onclick ='goreg()'>Login/Register</button>
+            </div>
+        </header>
+    <nav>
+        <h1 id="name_hotelprofile">HOTEL PROFILE</h1>
+        <hr>
+        <table class="ck_table">
+                <tr class="ck_linetable">
+                    <th class="ck_thtable">Hotel Name</th>
+                    <td class="ck_linetable">Hilton</td>
+                </tr>
+                <tr class="ck_linetable">
+                    <th class="ck_thtable">CEO First Name</th>
+                    <td class="ck_linetable">Diana</td>
+                </tr>
+                <tr class="ck_linetable">
+                    <th class="ck_thtable">CEO Family Name</th>
+                    <td class="ck_linetable">Guevara</td>
+                </tr>
+                <tr class="ck_linetable">
+                    <th class="ck_thtable">CEO Birthday</th>
+                    <td class="ck_linetable">Mar 5</td>
+                </tr>
+                <tr class="ck_linetable">
+                    <th class="ck_thtable">CEO Gender</th>
+                    <td class="ck_linetable">Female</td>
+                </tr>
+                <tr class="ck_linetable">
+                    <th class="ck_thtable">Phone</th>
+                    <td class="ck_linetable">300565</td>
+                </tr>
+                <tr class="ck_linetable">
+                    <th class="ck_thtable">Country</th>
+                    <td class="ck_linetable">Australia</td>
+                </tr>
+            </table>
+            <br>
+            <br>
+        <button class="ck_button"  onclick ="hideHprof()">Add Room</button>
+    </nav>
+    <main id="Hprofile">
+    </main>
+    <section id="editarea" class='ck_container' style="display:none">
+        <img class='ck_highlight-window' src="http://www.hotelroomsearch.net/im/hotels/asia/hk/hotel-icon-10.png" alt="#">
+        <div class='ck_main-content'>
+            <form id="frm1">
+                <label>Image Html</label>
+                <input type="text" value="https://i.pinimg.com/736x/d3/12/21/d31221489661f3c41808dd8dd248013a--underwater-bedroom-underwater-house.jpg" name="formImage" class="formElement">
+                <br>
+                
+                <label>Hotel Name</label> 
+                <input type="text" name="formhotel_name" value="Hotel Name" class="formElement">
+                <br>
+                
+                <label>Room Number</label> 
+                <input type="text" name="formRoomNumber" value="0" class="formElement">
+                <br>
+                
+                <label>Review Score</label> 
+                <input type="text" name="formReviewScore" value="0" class="formElement">
+                <br>
+                
+                <label># Adults</label> 
+                <input type="text" name="formAdults" value="0" class="formElement">
+                <br>
+                
+                <label># Childen</label> 
+                <input type="text" name="formkids" value="0" class="formElement">
+                <br>
+                
+                <label>Location</label> 
+                <input type="text" name="formLocation" value="Adelaide" class="formElement">
+                <br><br>
+                
+                <label>AUD $</label>
+                <input type="text" name="formPrice" value="99.99" class="formElement">
+                
+            </form>
+            <br>
+            <button id="noedit" onclick ="addCustomers()" style="display:block">CONFIRM</button>
+            
+            <button  id="edit" onclick ='editinfoH()' style="display:none">EDIT</button>
+              
+            <button onclick ='backHprof()'>CANCEL</button>
+          </div>
+    </section>
+        <footer class="ck_tailsl">
+            <div class="ck_taildisp">Webname</div>
+            <div class="ck_taildisp">@ 2017 UofA</div>
+            <div class="ck_taildisp">
+                <i class = "icon_style fa fa-info-circle"></i>
+                <i class = "icon_style fa fa-fighter-jet"></i>
+                <i class = "icon_style fa fa-ship"></i>
+                <i class = "icon_style fa fa-train"></i>
+                <i class = "icon_style fa fa-bus"></i>
+                <i class = "icon_style fa fa-taxi"></i>
+                <i class = "icon_style fa fa-subway"></i>
+            </div>
+        </footer> 
+    </body>
+</html>

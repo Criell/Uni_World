@@ -1,0 +1,86 @@
+body {
+    max-height: 100%;
+    overflow: auto;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+#top {
+    height: 5em;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: flex-end;
+    justify-content: space-between;
+}
+
+#nav {
+    display: flex;
+    flex-wrap: nowrap;
+    align-self: flex-start;
+}
+
+#logo {
+    width: 10em;
+    height: inherit;
+    
+    align-self: center;
+}
+
+#search {
+    align-self: center;
+    height: 3em;
+    width: 50em; 
+}
+
+#main {
+    display: flex;
+    width: 100%;
+}
+
+#left {
+    width: 33%;
+    height: auto;
+}
+
+#listings {
+    width: auto;
+    height: 100%;
+    overflow-y: auto;
+    list-style: none;
+}
+
+.listing {
+    width: auto;
+    height: 4em;
+    display: block;
+}
+
+#right {
+    position: relative;
+    width: 67%;
+    height: auto;
+}
+
+#hotel {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+#hotelform {
+    width: 100%;
+    height: 70%;
+}
+
+.listingimg {
+    opacity: 0.2;
+    width: 100%;
+    height: 100%;
+}
+
+.listingprice {
+    align-self: flex-start;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>cart</title>
+        <meta name="checkout" content="window to do checkout.">
+        <link rel="stylesheet" href="stylesheets/ck.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="javascripts/ck.js"></script>
+    </head>
+    <body onload="getCart()" class ="ck_fix">    
+         <header id ="head" class="ck_links">
+            <div class="ck_logo"><a href="index.html"> <img src="images/logo.jpg" alt="#"></a></div>
+            <div class="ck_but">
+                <button onclick ='goPP()'>Profile</button>
+            </div>
+             <div  class="ck_but">
+                <button onclick ='gocar()'>Cart</button>
+            </div>
+            <div class="ck_but">
+                <button formtarget="_blank" onclick ='goreg()'>Login/Register</button>
+            </div>
+        </header>   
+        <nav id="nav">
+            <h1>CART</h1>
+            <br>
+            <br>
+            <br>
+            <button onclick ='remove_all()'>Checkout All</button>
+        </nav>
+        <main id="Scart">
+        </main>
+        <footer id ="foot" class="ck_tailsl">
+            <div class="ck_taildisp">Webname</div>
+            <div class="ck_taildisp">@ 2017 UofA</div>
+            <div class="ck_taildisp">
+                <i class = "icon_style fa fa-info-circle"></i>
+                <i class = "icon_style fa fa-fighter-jet"></i>
+                <i class = "icon_style fa fa-ship"></i>
+                <i class = "icon_style fa fa-train"></i>
+                <i class = "icon_style fa fa-bus"></i>
+                <i class = "icon_style fa fa-taxi"></i>
+                <i class = "icon_style fa fa-subway"></i>
+            </div>
+        </footer>
+    </body>
+</html>

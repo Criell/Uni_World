@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Hotels</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="stylesheets/index.css">
+        <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+    </head>
+    <body>
+        <section id="top">
+            <img id="logo" src="images/logo.jpg" alt="logo">
+            <input id="search" style="text" placeholder="Search Destination">
+            <nav id="nav">
+                <button id="cart"  onclick ='gocar()'>Cart</button>
+                <button id="profile" onclick ='goreg()'>Login/Signup</button>
+                <button  onclick ='goPP()'>Profile</button>
+                <button  onclick ='goHP()'>Hotel Profile</button>
+            </nav>
+        </section>
+        
+        <main id="main">
+            <list id="left">
+                <ul id="listings">
+                </ul>
+            </list>
+
+            <aside id="right">
+                <div id="map"></div>
+
+                <content id="hotel">
+                    <form id="hotelform" alt="listing">
+                        <p>n. of adults: </p>
+                        <input type="text" name="nofadults"><br>
+                        <p>n. of children: </p>
+                        <input type="text" name="nofchildren"><br>
+                        <p>date from: </p>
+                        <input type="date" name="datefrom"><br>
+                        <p>date to: </p>
+                        <input type="date" name="dateto"><br>
+                    </form>
+                    <button onclick ='gocar()'>Book</button>
+                    <nav id="nav">
+                        <button id="infotab">Info</button>
+                        <button id="reviewstab">Reviews</button>
+                        <button id="maptab">Map</button>
+                    </nav>
+                    <section id="hoteltabs">
+                        <p>Info</p>
+                    </section>
+                </content>
+            </aside>
+    
+            <script src="javascripts/index.js"></script>
+            <script src="javascripts/ck.js"></script>
+            <script async defer
+                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB4ktWqpeMTuLnvuFbAl21wnaKVgF5jgds&callback=initMap"></script>
+        </main>
+    </body>
+</html>

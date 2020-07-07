@@ -1,0 +1,283 @@
+body
+{
+	line-height: 23px;
+	font-weight: 400;
+    background:#f2f3f4;
+	color: #1e1e27;
+    overflow-x:hidden;  
+    min-width:320px;
+}
+
+button
+{
+    background: #FF6347;
+    color: white;
+    padding: 0.7em;
+    border: none;
+    margin-top:auto;
+    margin-bottom:auto;
+    padding-left:1.5em;
+    padding-right:1.5em;
+    border-radius:0.5em;   
+}
+
+button:hover, a:hover {
+    background: #FE7C7F;
+    cursor: pointer;
+    opacity:1;
+}
+
+div{
+	display: block;
+	position: relative;
+    box-sizing: border-box;
+}
+
+p {
+	font-size: 14px;
+	line-height: 1.7;
+	font-weight: 500;
+	color: #989898;
+	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    font-family: 'Helvetica Neue', sans-serif;  
+}
+
+h1:hover, h2:hover, h3:hover, p:hover { 
+    color: #ff4a4a; 
+    text-decoration: none; 
+}
+
+h1{
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;  
+}
+h2{font-size: 35px;}
+h3{font-size: 20px;}
+
+h1, h2, h3,
+{
+	color: #282828;
+	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    font-family: 'Helvetica Neue', sans-serif;  
+    
+}
+.ck_fix{
+    display: flex;
+    flex-direction: column;
+     align-items: content: flex-end;
+}
+
+/**************Menu*****************/
+
+.ck_contentborder{
+    border: 1px solid darkgrey;
+    border-radius: 8px;
+}
+
+.ck_ulmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkgray;
+}
+
+.ck_limenu {float: left;}
+
+.ck_limenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.ck_active {
+    color: darkgrey;
+    background-color: #FF6347;
+    text-shadow: lighgrey;
+}
+
+.ck_limenu a:hover:not(.active) {
+    background: #FE7C7F;
+    cursor: pointer;
+    opacity:1;
+}
+
+.ck_table{
+    border: 2px solid darkgrey;
+    border-collapse: collapse;
+    width: 60%;
+    margin-left:auto; 
+    margin-right:auto;    
+}
+
+.ck_thtable{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    background-color: #FF6347;
+    color: white;
+    padding: 5px;
+}
+
+.ck_linetable{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.ck_txt{
+    margin-left:auto; 
+    margin-right:auto
+    
+}
+
+/**************Header*****************/
+
+.ck_links{
+    display: flex;
+}
+
+.ck_logo{
+  width:70em;
+  max-height:0em;
+  align-content: flex-start;
+}
+
+.ck_but{
+  align-content: flex-end;
+}
+
+/**************Footer*****************/
+
+.ck_tailsl{
+    background-color: lightgray;
+    border-radius: 8px;
+    border-radius: 8px;
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    text-align: center;
+}
+
+.ck_taildisp{
+    width: 50%;
+}
+
+/**************Info*****************/
+
+.ck_stars{
+    display:block;
+    color:goldenrod;
+}
+
+/**************Product****************
+ck_cart_info
+ck_product
+ck_info
+*/
+
+.ck_cart_info{
+  display: flex;
+  
+  width:100%;
+  padding:1em;
+  max-height:20em;
+  border-top:2px solid #ccc;
+  border-bottom:2px solid #ccc;
+  overflow:auto;
+}
+
+.ck_product{
+  width:60em;
+  max-height:20em;
+  align-content: flex-start;
+  overflow:auto;
+}
+
+.ck_img{
+    width: 55%
+}
+
+.ck_info{
+  display:block;
+  width:20em;
+  max-height:20em;
+  text-align: center;
+}
+
+/**************Checkout*****************/
+
+.ck_container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    overflow:auto;
+}
+
+.ck_displaynone{
+    display:none;
+}
+
+.ck_highlight-window {
+    height: 25em;
+    width: 50%;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+.ck_main-content {
+    padding:0em 1em 1em 1em;
+    width: 50%;
+    align-content: flex-start;
+}
+
+.ck_big_price{
+    font-size: 40px;
+    font-size: 2.5rem;
+}
+
+/**************Change Mail*****************/
+
+.myForm {
+font-family: sans-serif;
+font-size: 0.8em;
+padding: 1em;
+border: 1px solid #ccc;
+border-radius: 3px;
+}
+
+.myForm * {
+box-sizing: border-box;
+}
+
+.myForm label {
+font-size: 0.9em;
+}
+
+
+.myForm input {
+border: 1px solid #ccc;
+border-radius: 3px;
+font-family: sans-serif;
+font-size: 0.9em;
+padding: 0.9em;
+}
+
+.myForm input[type="email"],
+.myForm input[type="password"] {
+width: 12em;
+}
+
+.myForm_button {
+padding: 0.7em;
+border-radius: 0.5em;
+background: gray;
+border: none;
+font-weight: bold;
+margin-left: 1.5em;
+}
+
+.myForm_button:hover {
+background: #ccc;
+cursor: pointer;
+}
